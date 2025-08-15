@@ -1,6 +1,7 @@
-# LI Junxing
-Welcome to this site! This page contains more details about me.
-Personal Email: lev1s at duck dot com
+# _*LI Junxing*_
+
+> Welcome to this site! This page contains more details about me.\
+> Personal Email: lev1s at duck dot com
 
 ## 🎓 Education
 
@@ -54,13 +55,14 @@ Personal Email: lev1s at duck dot com
 
 ## 🛠 Skills  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat-square&logo=mathworks)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare)
+![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-FF3D00?style=flat-square&logo=mathworks&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-0db7f2?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-FFCC00?style=flat-square&logo=cloudflare&logoColor=black)
+
 
 
 ## 🌏 Languages  
