@@ -1,3 +1,7 @@
+# LI Junxing
+Welcome to this site! This page contains more details about me.
+Personal Email: lev1s at duck dot com
+
 ## 🎓 Education
 
 - **City University of Hong Kong** *(Sep 2025 – Jun 2026)*  
@@ -9,12 +13,12 @@
 
 ## 🏅 Honors & Awards  
 
-- 🥈 **Chinese Mathematics Competitions (CMC)** – National Second Prize  
-- 🥈 **Shandong Provincial Mathematics Competition** – Provincial Second Prize  
-- 🥈 **CUMCM Mathematical Contest in Modeling** – Shandong Second Prize  
-- 🥉 **MathorCup Mathematical Modeling Challenge** – National Third Prize  
-- 🥈 **Shandong Provincial Physics Competition** – Provincial Second Prize  
-- 🎖️ **Cultural & Sports Activities Scholarship** – QUT  
+- 🥈 **Chinese Mathematics Competitions (CMC)**
+- 🥈 **Shandong Provincial Mathematics Competition** 
+- 🥈 **CUMCM Mathematical Contest in Modeling** 
+- 🥉 **MathorCup Mathematical Modeling Challenge** 
+- 🥈 **Shandong Provincial Physics Competition** 
+- 🎖️ **Cultural & Sports Activities Scholarship** 
 
 
 ## 🔬 Project Experience  
@@ -57,13 +61,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
 
 ## 🌏 Languages  
 
-- 🇨🇳 Mandarin Chinese *(Native)*  
-- 🇬🇧 English *(B2 – Academic & Professional Communication)*  
+- Mandarin Chinese *(Native)*  
+- English *(B2 – Academic & Professional Communication)*  
 
 
 ## 🎯 Interests  
@@ -71,4 +74,4 @@
 🏞 Hiking · 🏋️‍♂️ Fitness · 🏍 Motorcycle · 📷 Photography · 💻 Coding  
 
 ---
-*Last Updated: 2025*
+*Last Updated: Oct. 2025*
