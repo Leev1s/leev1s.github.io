@@ -1,8 +1,3 @@
 title: LI Junxing (Lev1s)
 logo: /assets/img/logo.jpg
 google_analytics:
-color-scheme: dark
-favicon: false
-remote_theme: BDHU/minimalist
-plugins:
-  - jekyll-remote-theme
