@@ -1,9 +1,3 @@
-# 💼 **LI Junxing**  
-
-[🌐 Personal Site](https://lev1s.cn/) | [![GitHub](https://img.shields.io/badge/GitHub-Leev1s-181717?style=flat-square&logo=github)](https://github.com/Leev1s) | [![X](https://img.shields.io/badge/Twitter%2FX-Leev1s-000000?style=flat-square&logo=x)](https://x.com/Leev1s)  
-
----
-
 ## 🎓 Education
 
 - **City University of Hong Kong** *(Sep 2025 – Jun 2026)*  
@@ -11,10 +5,7 @@
 
 - **Qingdao University of Technology** *(Sep 2020 – Jun 2024)*  
   *Bachelor of Science in Mathematics and Applied Mathematics*  
-  **GPA**: 3.85/5.00  
-  **Core Courses**: Mathematical Analysis · Advanced Algebra · ODE/PDE · Probability · Statistics · Numerical Analysis · Data Structure · Machine Learning  
 
----
 
 ## 🏅 Honors & Awards  
 
@@ -25,7 +16,6 @@
 - 🥈 **Shandong Provincial Physics Competition** – Provincial Second Prize  
 - 🎖️ **Cultural & Sports Activities Scholarship** – QUT  
 
----
 
 ## 🔬 Project Experience  
 
@@ -37,15 +27,11 @@
 - Produced visualizations in Python/Origin  
 - Co-authored **two national patents**  
 
----
-
 ### **Study on the Generation of Multi-rule Fractals**  
 *Graduation Thesis*  
 - Built GPU-accelerated fractal model using **Taichi**, achieving **100× speedup**  
 - Implemented real-time fractal rendering & interaction  
 - Identified improvements over existing fractal generation systems  
-
----
 
 ### **Epidemiological Modeling of COVID-19**  
 *MathorCup 2022*  
@@ -54,7 +40,6 @@
 - Deep learning model for panel data forecasting  
 - Analyzed policy effects using [OxCGRT Data](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker)  
 
----
 
 ## 📚 Publications & Patents  
 
@@ -62,7 +47,6 @@
 - **[P.1]** [Triaxial Apparatus for Unsaturated Soil Based on Dialysis Method](https://patents.google.com/patent/CN117368002A) – Chinese Patent CN117368002A  
 - **[P.2]** [Direct Shear Apparatus with Erosion Monitoring](https://patents.google.com/patent/CN115452613A) – Chinese Patent CN115452613A  
 
----
 
 ## 🛠 Skills  
 
@@ -75,14 +59,12 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
----
 
 ## 🌏 Languages  
 
 - 🇨🇳 Mandarin Chinese *(Native)*  
 - 🇬🇧 English *(B2 – Academic & Professional Communication)*  
 
----
 
 ## 🎯 Interests  
 
