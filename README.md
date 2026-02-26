@@ -95,4 +95,4 @@ _李俊星_ _Jasen_
 🏞 Hiking · 🏋️‍♂️ Fitness · 🏍 Motorcycle · 📷 Photography · 💻 Coding  
 
 ---
-*Last Updated: Oct. 2025*
+*Last Updated: Feb. 2026*
