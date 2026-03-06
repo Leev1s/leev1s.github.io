@@ -2,7 +2,7 @@
 
 _李俊星_ _Jasen_
 
-**EN** · [中文](/zh/) · [العربية](/ar/) · [Français](/fr/) · [Русский](/ru/) · [Español](/es/)
+[العربية](/ar/) · **EN** · [Español](/es/) · [فارسی](/fa/) · [Français](/fr/) · [हिन्दी](/hi/) · [日本語](/ja/) · [한국어](/ko/) · [Русский](/ru/) · [中文](/zh/)
 
 > Welcome to this site! This page contains more details about me.\
 > Personal Email: lev1s at duck dot com
