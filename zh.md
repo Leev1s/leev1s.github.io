@@ -1,12 +1,13 @@
 ---
 title: Lev1s（中文）
+permalink: /zh/
 ---
 
 # _**李俊星**_
 
 _LI Junxing_ _Jasen_
 
-<a href="/" style="display:inline-block;padding:8px 14px;background:#d73a49;color:#fff;border-radius:6px;text-decoration:none;">English Version</a>
+<a href="/" style="text-decoration:none;">English Version</a>
 
 > 欢迎来到这个页面！这里包含更多关于我的信息。\
 > 个人邮箱：lev1s at duck dot com
