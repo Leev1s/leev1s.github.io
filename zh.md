@@ -7,7 +7,7 @@ permalink: /zh/
 
 _LI Junxing_ _Jasen_
 
-[EN](/) · **中文** · [العربية](/ar/) · [Français](/fr/) · [Русский](/ru/) · [Español](/es/)
+[EN](/) · **中文** · [العربية](/ar/) · [Français](/fr/) · [Русский](/ru/) · [Español](/es/) · [日本語](/ja/) · [한국어](/ko/)
 
 > 欢迎来到这个页面！这里包含更多关于我的信息。\
 > 个人邮箱：lev1s at duck dot com
