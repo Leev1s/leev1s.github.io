@@ -2,7 +2,7 @@
 
 _李俊星_ _Jasen_
 
-<a href="/zh/" style="text-decoration:none;">中文版本</a>
+**EN** · [中文](/zh/) · [العربية](/ar/) · [Français](/fr/) · [Русский](/ru/) · [Español](/es/)
 
 > Welcome to this site! This page contains more details about me.\
 > Personal Email: lev1s at duck dot com
