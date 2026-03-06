@@ -7,7 +7,7 @@ permalink: /es/
 
 _李俊星_ _Jasen_
 
-[EN](/) · [中文](/zh/) · [العربية](/ar/) · [Français](/fr/) · [Русский](/ru/) · **Español** · [日本語](/ja/) · [한국어](/ko/)
+[العربية](/ar/) · [EN](/) · **Español** · [فارسی](/fa/) · [Français](/fr/) · [हिन्दी](/hi/) · [日本語](/ja/) · [한국어](/ko/) · [Русский](/ru/) · [中文](/zh/)
 
 > ¡Bienvenido a este sitio! Esta página contiene más detalles sobre mí.\
 > Correo personal: lev1s at duck dot com
