@@ -7,6 +7,10 @@ _李俊星_ _Jasen_
 > Welcome to this site! This page contains more details about me.\
 > Personal Email: lev1s at duck dot com
 
+## 🙋 Profile
+
+Strong research engineering and system delivery capabilities, able to independently drive the complete pipeline from problem definition, solution design, experimental validation to engineering delivery. During undergraduate studies, built solid modeling, analytical, and teamwork skills through mathematical modeling competitions and research training. During graduate studies, conducted cross-domain practice in cryptocurrency quantitative research and image segmentation post-processing, completing quantitative research framework reconstruction, time-series forecasting pipeline setup, and RankSeg adaptation, experiment reproduction, and environment packaging within mainstream segmentation workflows. Familiar with open-source collaboration, technical documentation and bilingual communication, with practical experience in Agent workflows, automated toolchains and cloud deployment.
+
 ## 🎓 Education
 
 - **City University of Hong Kong** *(Sep 2025 – Oct 2026)*  
@@ -20,17 +24,31 @@ _李俊星_ _Jasen_
 
 ### **The Chinese University of Hong Kong (CUHK)**  
 *Part-time Research Assistant | Feb 2026 – Present*  
-- Contributed to **[RankSEG](https://github.com/rankseg/rankseg)**, a state-of-the-art image segmentation framework published at **NeurIPS** and **JMLR**.  
-- Engineered and optimized the integration of RankSEG into the **PaddleSeg** framework, refining inference post-processing and logging mechanisms.  
-- Configured and optimized **Dockerized environments** for reproducible **large-scale model training** and evaluation.
+- Drove research engineering and deployment of the RankSEG image segmentation post-processing algorithm, responsible for the full pipeline from source code reading and experiment reproduction, mainstream segmentation framework adaptation, inference post-processing integration, and evaluation script development to cluster environment packaging, advancing the algorithm from research prototype to reproducible, deployable engineering form.  
+- Advanced RankSEG integration and extension within mainstream semantic segmentation workflows; participated in mmsegmentation and PaddleSeg framework adaptation, and designed a post-processing helper in a Transformers fork to enable model output probability tensors to be directly fed into Dice/IoU-guided post-processing, supporting optimization of segmentation prediction results without retraining.  
+- Participated in inference post-processing and evaluation pipeline reconstruction, optimizing prediction workflows around Dice/IoU metrics, supplementing logging, evaluation scripts and result tracking to improve experimental comparability, debugging efficiency and reproduction stability.  
+- Set up reproducible experiments using Singularity + Slurm on the CUHK HPC cluster, completing image packaging, dependency management, job template submission and multi-GPU environment adaptation, consolidating scattered experiment commands into unified templates supporting batch experiments on A100, V100, and RTX Pro 6000.  
+- Enhanced project delivery pipeline for community users and potential collaborators by supplementing quickstart guides, integration tutorials, README, interactive demos and playground, advancing cloud demonstration and CI/CD pipeline development to lower onboarding barriers and improve external project visibility.
 
 ### **Zhejiang Mingce Asset Management Co., Ltd.**  
-*Quantitative Architecture Intern (CityUHK Bios Coop) | Sep 2025 – Present*  
+*Quantitative Architecture Intern (CityUHK Bios Coop) | Sep 2025 – Apr 2026*  
 *Cryptocurrency Quantitative Trading & Strategy Development*  
-- Developed a multi-stage deep learning framework for **cryptocurrency time-series forecasting** by integrating **Sufficient Dimension Reduction (SDR)** techniques. Leveraged **MAVE** (Minimum Average Variance Estimation), **OPG** (Outer Product of Gradient), and **KSIR** (Kernel Sliced Inverse Regression) to effectively extract nonlinear directions.  
-- Designed a scalable **nested parallelism mechanism** to optimize extensive back-testing experiments. Formulated a dynamic resource scheduling strategy that parallelizes tasks across both asset-level and time-horizon dimensions, **maximizing CPU utilization** and **significantly reducing computational overhead** for large-scale model training.  
+- Conducted signal research and framework development for daily-frequency cryptocurrency trading around BTC, ETH, and subsequent liquidity Top40 assets, responsible for the full R&D pipeline from on-chain data cleaning, feature construction, factor preprocessing, predictive modeling, time-series backtesting to signal generation.  
+- Performed active factor mining and signal enhancement using tree models including Random Forest and XGBoost, improving input feature quality through stationarity tests, correlation tests and factor classification preprocessing strategies, exploring different response variable construction methods and cross-sectional signal contributions.  
+- Led the reconstruction of early R Markdown-based experimental scripts into a modular Python-R-SQL research framework, designing from scratch the code directory, module boundaries, function interfaces, variable naming, data structures and YAML configuration mechanisms, forming a reusable and extensible quantitative research and backtesting pipeline.  
+- Applied MAVE and Autoencoder methods for feature dimensionality reduction and representation learning to address high-noise and high-collinearity in financial time series, combined with strict time-series cross-validation and hyperparameter search to control information leakage risks and improve model evaluation robustness.  
+- Conducted 7/14/28-day multi-period directional prediction validation using 8 years of historical data and a 1-year rolling backtest window, building dual classification and continuous prediction evaluation paths using log return sign as the core directional label, achieving approximately **65% directional accuracy**.  
+- Established a signal delivery pipeline from research to production, supporting multi-asset parallel training, prediction and backtesting, driven by unified YAML configuration, with results returned via JSON/API and stored in SQL database, supporting subsequent frontend display and live trading integration.
 
 ## 🔬 Project Experience  
+
+### **Hong Kong Jockey Club Odds and Betting Behavior Statistical Modeling**  
+*Project Initiator | Oct 2025 – Dec 2025*  
+*CityU Course Project*  
+- Conducted large-scale data scraping, cleaning and exploratory analysis of HKJC historical race data, constructing a structured analytical dataset covering race results, odds and betting types.  
+- Applied statistical inference and hypothesis testing to systematically analyze race result distributions and potential influencing factors, verifying sample balance and modeling feasibility.  
+- Built statistical learning models for **place** and **place Q** betting scenarios using historical race data, completing feature engineering, model training and result evaluation.  
+- Achieved high predictive accuracy in Sha Tin racecourse samples and small-scale validation, supporting subsequent betting strategy analysis and model optimization.  
 
 ### **Experimental Study on Shear Strength of Unsaturated Soil**  
 *Core Team Member | National Natural Science Foundation of China Grant*  
@@ -83,10 +101,19 @@ _李俊星_ _Jasen_
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2EA043?style=flat-square&logo=githubactions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Slurm](https://img.shields.io/badge/-Slurm-009BDE?style=flat-square&logoColor=white)
+![Singularity](https://img.shields.io/badge/-Singularity-1D3557?style=flat-square&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
 
-## 🌏 Languages  
+## 🌏 Languages
 
 - Mandarin Chinese *(Native)*  
 - English *(B2 – Academic & Professional Communication)*  
@@ -97,4 +124,4 @@ _李俊星_ _Jasen_
 🏞 Hiking · 🏋️‍♂️ Fitness · 🏍 Motorcycle · 📷 Photography · 💻 Coding  
 
 ---
-*Last Updated: Feb. 2026*
+*Last Updated: Apr. 2026*

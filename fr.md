@@ -12,6 +12,10 @@ _李俊星_ _Jasen_
 > Bienvenue sur ce site ! Cette page contient plus de détails à mon sujet.\
 > E-mail personnel : lev1s at duck dot com
 
+## 🙋 Profil
+
+Solides compétences en ingénierie de la recherche et en déploiement de systèmes, capable de piloter de façon autonome le pipeline complet allant de la définition du problème, la conception de la solution et la validation expérimentale jusqu'à la livraison engineering. En licence, j'ai développé des compétences solides en modélisation analytique, expression abstraite et travail d'équipe grâce aux concours de modélisation mathématique et à la formation en recherche. En master, j'ai mené des pratiques croisées en recherche quantitative sur les cryptomonnaies et en algorithmes de post-traitement pour la segmentation d'images, achevant la reconstruction du cadre de recherche quantitative, la mise en place d'un pipeline de prévision de séries temporelles, ainsi que l'adaptation de RankSeg aux workflows de segmentation courants, la reproduction d'expériences et le packaging d'environnements. Familier de la collaboration open-source, de la rédaction de documentation technique et de la communication bilingue, avec une expérience pratique des workflows d'agents, des chaînes d'outils automatisées et du déploiement cloud.
+
 ## 🎓 Formation
 
 - **City University of Hong Kong** *(Sept. 2025 – Oct. 2026)*
@@ -24,17 +28,31 @@ _李俊星_ _Jasen_
 
 ### **The Chinese University of Hong Kong (CUHK)**
 *Assistant de Recherche à temps partiel | Fév. 2026 – Présent*
-- Contribution à **[RankSEG](https://github.com/rankseg/rankseg)**, un framework de segmentation d'images de pointe publié à **NeurIPS** et **JMLR**.
-- Intégration et optimisation de RankSEG dans le framework **PaddleSeg**, amélioration du post-traitement d'inférence et des mécanismes de journalisation.
-- Configuration et optimisation d'**environnements Dockerisés** pour un entraînement et une évaluation reproductibles de modèles à grande échelle.
+- Piloté l'ingénierie et le déploiement de l'algorithme de post-traitement de segmentation d'images RankSEG, en charge du pipeline complet depuis la lecture du code source et la reproduction des expériences, l'adaptation aux frameworks de segmentation courants, l'intégration du post-traitement d'inférence, le développement des scripts d'évaluation jusqu'au packaging en environnement cluster, faisant évoluer l'algorithme d'un prototype de recherche vers une forme d'ingénierie reproductible et déployable.
+- Avancé l'intégration et l'extension de RankSEG dans les workflows de segmentation sémantique courants ; participé à l'adaptation des frameworks mmsegmentation et PaddleSeg, et conçu un post-processing helper dans un fork de Transformers pour permettre aux tenseurs de probabilité en sortie de modèle d'être directement injectés dans un post-traitement guidé par Dice/IoU, soutenant l'optimisation des résultats de segmentation sans ré-entraînement.
+- Participé à la reconstruction du pipeline de post-traitement d'inférence et d'évaluation, optimisant les workflows de prédiction autour des métriques Dice/IoU, en ajoutant la journalisation, des scripts d'évaluation et le suivi des résultats pour améliorer la comparabilité des expériences, l'efficacité du débogage et la stabilité de la reproduction.
+- Mis en place des expériences reproductibles avec Singularity + Slurm sur le cluster HPC de CUHK, effectuant le packaging d'images, la gestion des dépendances, la soumission de tâches par templates et l'adaptation à des environnements multi-GPU, consolidant des commandes d'expériences dispersées en templates unifiés supportant des expériences en batch sur A100, V100 et RTX Pro 6000.
+- Renforcé le pipeline de livraison du projet pour les utilisateurs de la communauté et les collaborateurs potentiels en ajoutant des guides de démarrage rapide, des tutoriels d'intégration, un README, des démos interactives et un playground, faisant progresser la démonstration cloud et le développement du pipeline CI/CD pour abaisser les barrières d'adoption et améliorer la visibilité externe du projet.
 
 ### **Zhejiang Mingce Asset Management Co., Ltd.**
-*Stagiaire Architecture Quantitative (CityUHK Bios Coop) | Sept. 2025 – Présent*
+*Stagiaire Architecture Quantitative (CityUHK Bios Coop) | Sept. 2025 – Avr. 2026*
 *Trading Quantitatif de Cryptomonnaies & Développement de Stratégies*
-- Développement d'un framework d'apprentissage profond multi-étapes pour la **prévision de séries temporelles de cryptomonnaies** en intégrant des techniques de **Réduction de Dimension Suffisante (SDR)**. Utilisation de **MAVE**, **OPG** et **KSIR** pour extraire des directions non linéaires.
-- Conception d'un **mécanisme de parallélisme imbriqué** évolutif pour optimiser les expériences de backtesting. Formulation d'une stratégie dynamique d'ordonnancement des ressources parallélisant les tâches selon les dimensions actif et horizon temporel, **maximisant l'utilisation du CPU** et **réduisant significativement la charge de calcul** pour l'entraînement à grande échelle.
+- Réalisé des recherches sur les signaux et développé le cadre pour le trading journalier de cryptoactifs autour de BTC, ETH et des 40 actifs à liquidité suivants, en charge du pipeline complet de R&D allant du nettoyage des données on-chain, la construction de features, le prétraitement des facteurs, la modélisation prédictive, le backtesting de séries temporelles jusqu'à la génération de signaux.
+- Réalisé une extraction active de facteurs et un renforcement de signaux à l'aide de modèles arborescents tels que Random Forest et XGBoost, améliorant la qualité des features d'entrée via des tests de stationnarité, des tests de corrélation et des stratégies de prétraitement par classification de facteurs, en explorant différentes méthodes de construction de la variable de réponse et les contributions des signaux transversaux.
+- Piloté la reconstruction des scripts expérimentaux initiaux basés sur R Markdown en un framework de recherche modulaire Python-R-SQL, en concevant de zéro l'arborescence du code, les frontières de modules, les interfaces de fonctions, la nomenclature des variables, les structures de données et les mécanismes de configuration YAML, formant un pipeline de recherche quantitative et de backtesting réutilisable et extensible.
+- Appliqué les méthodes MAVE et Autoencoder pour la réduction de dimension des features et l'apprentissage de représentations afin de traiter le bruit élevé et la colinéarité dans les séries temporelles financières, combiné à une validation croisée stricte des séries temporelles et une recherche d'hyperparamètres pour contrôler les risques de fuite d'information et améliorer la robustesse de l'évaluation des modèles.
+- Réalisé une validation de prédiction directionnelle multi-période sur 7/14/28 jours en utilisant 8 ans de données historiques et une fenêtre de backtest glissante d'1 an, construisant un système d'évaluation à double voie (classification et prédiction continue) avec le signe du log return comme label directionnel principal, atteignant une précision directionnelle d'environ **65%**.
+- Mis en place un pipeline de livraison de signaux de la recherche à la production, supportant l'entraînement parallèle multi-actifs, la prédiction et le backtesting, piloté par une configuration YAML unifiée, avec les résultats renvoyés via JSON/API et stockés en base SQL, soutenant l'affichage frontend et l'intégration au trading en direct.
 
 ## 🔬 Expériences de Projets
+
+### **Modélisation Statistique des Cotes et Comportements de Paris du Hong Kong Jockey Club**
+*Initiateur du Projet | Oct. 2025 – Déc. 2025*
+*Projet de Cours CityU*
+- Réalisé un scraping de données à grande échelle, un nettoyage et une analyse exploratoire des données historiques du HKJC, construisant un jeu de données analytiques structuré couvrant les résultats de courses, les cotes et les types de paris.
+- Appliqué l'inférence statistique et les tests d'hypothèse pour analyser systématiquement les distributions des résultats de courses et les facteurs d'influence potentiels, vérifiant l'équilibre des échantillons et la faisabilité de la modélisation.
+- Construit des modèles d'apprentissage statistique pour les scénarios de paris **place** et **place Q** à partir de données historiques, effectuant l'ingénierie des features, l'entraînement des modèles et l'évaluation des résultats.
+- Atteint une haute précision prédictive sur les échantillons de l'hippodrome de Sha Tin et en validation à petite échelle, soutenant l'analyse de stratégies de paris et l'optimisation des modèles.
 
 ### **Étude Expérimentale sur la Résistance au Cisaillement des Sols Non Saturés**
 *Membre clé | Subvention de la Fondation Nationale des Sciences Naturelles de Chine*
@@ -83,6 +101,15 @@ _李俊星_ _Jasen_
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2EA043?style=flat-square&logo=githubactions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Slurm](https://img.shields.io/badge/-Slurm-009BDE?style=flat-square&logoColor=white)
+![Singularity](https://img.shields.io/badge/-Singularity-1D3557?style=flat-square&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ## 🌏 Langues
 
@@ -94,4 +121,4 @@ _李俊星_ _Jasen_
 🏞 Randonnée · 🏋️‍♂️ Fitness · 🏍 Moto · 📷 Photographie · 💻 Programmation
 
 ---
-*Dernière mise à jour : Fév. 2026*
+*Dernière mise à jour : Avr. 2026*
