@@ -13,6 +13,7 @@ _李俊星_ _Jasen_
 > E-mail personnel : lev1s at duck dot com
 
 > GitHub: https://github.com/Leev1s
+> Prof. Ben Dai: https://www.bendai.org/
 ## 🙋 Profil
 
 Solides compétences en ingénierie de la recherche et en déploiement de systèmes, capable de piloter de façon autonome le pipeline complet allant de la définition du problème, la conception de la solution et la validation expérimentale jusqu'à la livraison engineering. En licence, j'ai développé des compétences solides en modélisation analytique, expression abstraite et travail d'équipe grâce aux concours de modélisation mathématique et à la formation en recherche. En master, j'ai mené des pratiques croisées en recherche quantitative sur les cryptomonnaies et en algorithmes de post-traitement pour la segmentation d'images, achevant la reconstruction du cadre de recherche quantitative, la mise en place d'un pipeline de prévision de séries temporelles, ainsi que l'adaptation de [RankSEG](https://github.com/rankseg/rankseg) aux workflows de segmentation courants, la reproduction d'expériences et le packaging d'environnements. Familier de la collaboration open-source, de la rédaction de documentation technique et de la communication bilingue, avec une expérience pratique des workflows d'agents, des chaînes d'outils automatisées et du déploiement cloud.
@@ -29,7 +30,6 @@ Solides compétences en ingénierie de la recherche et en déploiement de systè
 
 ### **The Chinese University of Hong Kong (CUHK)**
 *Assistant de Recherche à temps partiel | Fév. 2026 – Présent*
-- Supervised by [Prof. Ben Dai](https://www.bendai.org/).
 - Piloté l'ingénierie et le déploiement de l'algorithme de post-traitement de segmentation d'images [RankSEG](https://github.com/rankseg/rankseg), en charge du pipeline complet depuis la lecture du code source et la reproduction des expériences, l'adaptation aux frameworks de segmentation courants, l'intégration du post-traitement d'inférence, le développement des scripts d'évaluation jusqu'au packaging en environnement cluster, faisant évoluer l'algorithme d'un prototype de recherche vers une forme d'ingénierie reproductible et déployable.
 - Avancé l'intégration et l'extension de [RankSEG](https://github.com/rankseg/rankseg) dans les workflows de segmentation sémantique courants ; participé à l'adaptation des frameworks mmsegmentation et PaddleSeg, et conçu un post-processing helper dans un fork de Transformers pour permettre aux tenseurs de probabilité en sortie de modèle d'être directement injectés dans un post-traitement guidé par Dice/IoU, soutenant l'optimisation des résultats de segmentation sans ré-entraînement.
 - Participé à la reconstruction du pipeline de post-traitement d'inférence et d'évaluation, optimisant les workflows de prédiction autour des métriques Dice/IoU, en ajoutant la journalisation, des scripts d'évaluation et le suivi des résultats pour améliorer la comparabilité des expériences, l'efficacité du débogage et la stabilité de la reproduction.
