@@ -12,7 +12,6 @@ _李俊星_ _Jasen_
 > ¡Bienvenido a este sitio! Esta página contiene más detalles sobre mí.\
 > Correo personal: lev1s at duck dot com
 
-> GitHub: https://github.com/Leev1s
 ## 🙋 Perfil
 
 Sólidas capacidades de ingeniería en investigación y entrega de sistemas, capaz de impulsar de forma independiente el pipeline completo desde la definición del problema, el diseño de la solución y la validación experimental hasta la entrega de ingeniería. Durante los estudios de grado, desarrollé sólidas habilidades de modelado analítico, expresión abstracta y trabajo en equipo a través de concursos de modelado matemático y formación en investigación. Durante el máster, realicé prácticas interdisciplinarias en investigación cuantitativa de criptomonedas y algoritmos de post-procesamiento para segmentación de imágenes, completando la reconstrucción del framework de investigación cuantitativa, la configuración del pipeline de predicción de series temporales, y la adaptación de [RankSEG](https://github.com/rankseg/rankseg) a workflows de segmentación convencionales, reproducción de experimentos y empaquetado de entornos. Familiarizado con la colaboración open-source, la documentación técnica y la comunicación bilingüe, con experiencia práctica en workflows de agentes, cadenas de herramientas automatizadas y despliegue en la nube.
