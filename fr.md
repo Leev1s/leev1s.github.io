@@ -12,9 +12,10 @@ _李俊星_ _Jasen_
 > Bienvenue sur ce site ! Cette page contient plus de détails à mon sujet.\
 > E-mail personnel : lev1s at duck dot com
 
+> GitHub: https://github.com/Leev1s
 ## 🙋 Profil
 
-Solides compétences en ingénierie de la recherche et en déploiement de systèmes, capable de piloter de façon autonome le pipeline complet allant de la définition du problème, la conception de la solution et la validation expérimentale jusqu'à la livraison engineering. En licence, j'ai développé des compétences solides en modélisation analytique, expression abstraite et travail d'équipe grâce aux concours de modélisation mathématique et à la formation en recherche. En master, j'ai mené des pratiques croisées en recherche quantitative sur les cryptomonnaies et en algorithmes de post-traitement pour la segmentation d'images, achevant la reconstruction du cadre de recherche quantitative, la mise en place d'un pipeline de prévision de séries temporelles, ainsi que l'adaptation de RankSeg aux workflows de segmentation courants, la reproduction d'expériences et le packaging d'environnements. Familier de la collaboration open-source, de la rédaction de documentation technique et de la communication bilingue, avec une expérience pratique des workflows d'agents, des chaînes d'outils automatisées et du déploiement cloud.
+Solides compétences en ingénierie de la recherche et en déploiement de systèmes, capable de piloter de façon autonome le pipeline complet allant de la définition du problème, la conception de la solution et la validation expérimentale jusqu'à la livraison engineering. En licence, j'ai développé des compétences solides en modélisation analytique, expression abstraite et travail d'équipe grâce aux concours de modélisation mathématique et à la formation en recherche. En master, j'ai mené des pratiques croisées en recherche quantitative sur les cryptomonnaies et en algorithmes de post-traitement pour la segmentation d'images, achevant la reconstruction du cadre de recherche quantitative, la mise en place d'un pipeline de prévision de séries temporelles, ainsi que l'adaptation de [RankSEG](https://github.com/rankseg/rankseg) aux workflows de segmentation courants, la reproduction d'expériences et le packaging d'environnements. Familier de la collaboration open-source, de la rédaction de documentation technique et de la communication bilingue, avec une expérience pratique des workflows d'agents, des chaînes d'outils automatisées et du déploiement cloud.
 
 ## 🎓 Formation
 
@@ -28,8 +29,9 @@ Solides compétences en ingénierie de la recherche et en déploiement de systè
 
 ### **The Chinese University of Hong Kong (CUHK)**
 *Assistant de Recherche à temps partiel | Fév. 2026 – Présent*
-- Piloté l'ingénierie et le déploiement de l'algorithme de post-traitement de segmentation d'images RankSEG, en charge du pipeline complet depuis la lecture du code source et la reproduction des expériences, l'adaptation aux frameworks de segmentation courants, l'intégration du post-traitement d'inférence, le développement des scripts d'évaluation jusqu'au packaging en environnement cluster, faisant évoluer l'algorithme d'un prototype de recherche vers une forme d'ingénierie reproductible et déployable.
-- Avancé l'intégration et l'extension de RankSEG dans les workflows de segmentation sémantique courants ; participé à l'adaptation des frameworks mmsegmentation et PaddleSeg, et conçu un post-processing helper dans un fork de Transformers pour permettre aux tenseurs de probabilité en sortie de modèle d'être directement injectés dans un post-traitement guidé par Dice/IoU, soutenant l'optimisation des résultats de segmentation sans ré-entraînement.
+- Supervised by [Prof. Ben Dai](https://www.bendai.org/).
+- Piloté l'ingénierie et le déploiement de l'algorithme de post-traitement de segmentation d'images [RankSEG](https://github.com/rankseg/rankseg), en charge du pipeline complet depuis la lecture du code source et la reproduction des expériences, l'adaptation aux frameworks de segmentation courants, l'intégration du post-traitement d'inférence, le développement des scripts d'évaluation jusqu'au packaging en environnement cluster, faisant évoluer l'algorithme d'un prototype de recherche vers une forme d'ingénierie reproductible et déployable.
+- Avancé l'intégration et l'extension de [RankSEG](https://github.com/rankseg/rankseg) dans les workflows de segmentation sémantique courants ; participé à l'adaptation des frameworks mmsegmentation et PaddleSeg, et conçu un post-processing helper dans un fork de Transformers pour permettre aux tenseurs de probabilité en sortie de modèle d'être directement injectés dans un post-traitement guidé par Dice/IoU, soutenant l'optimisation des résultats de segmentation sans ré-entraînement.
 - Participé à la reconstruction du pipeline de post-traitement d'inférence et d'évaluation, optimisant les workflows de prédiction autour des métriques Dice/IoU, en ajoutant la journalisation, des scripts d'évaluation et le suivi des résultats pour améliorer la comparabilité des expériences, l'efficacité du débogage et la stabilité de la reproduction.
 - Mis en place des expériences reproductibles avec Singularity + Slurm sur le cluster HPC de CUHK, effectuant le packaging d'images, la gestion des dépendances, la soumission de tâches par templates et l'adaptation à des environnements multi-GPU, consolidant des commandes d'expériences dispersées en templates unifiés supportant des expériences en batch sur A100, V100 et RTX Pro 6000.
 - Renforcé le pipeline de livraison du projet pour les utilisateurs de la communauté et les collaborateurs potentiels en ajoutant des guides de démarrage rapide, des tutoriels d'intégration, un README, des démos interactives et un playground, faisant progresser la démonstration cloud et le développement du pipeline CI/CD pour abaisser les barrières d'adoption et améliorer la visibilité externe du projet.
@@ -77,9 +79,9 @@ Solides compétences en ingénierie de la recherche et en déploiement de systè
 
 ## 📚 Publications & Brevets
 
-- **[J.1]** [Étude expérimentale sur la résistance au cisaillement des sols non saturés...](https://doi.org/10.16285/j.rsm.2022.2005) – *Rock and Soil Mechanics* (IF=3.721)
-- **[P.1]** [Appareil Triaxial pour Sol Non Saturé Basé sur la Méthode de Dialyse](https://patents.google.com/patent/CN117368002A) – Brevet Chinois CN117368002A
-- **[P.2]** [Appareil de Cisaillement Direct avec Surveillance de l'Érosion](https://patents.google.com/patent/CN115452613A) – Brevet Chinois CN115452613A
+- **[J.1]** NIU Geng, ZHU Xiao-feng, **LI Jun-xing**, LÜ Meng-yuan, AN Li-qi, CHEN Zi-han. (2022). [**Experimental study on shear strength of unsaturated soil over a wide suction range and its prediction**](https://doi.org/10.16285/j.rsm.2022.2005). *Rock and Soil Mechanics*, No. 12, pp. 1-11. DOI: 10.16285/j.rsm.2022.2005. (IF=3.721, EI, CA, JST, CSCD, Peking University Core Journal)  
+- **[P.1]** NIU Geng, **LI Jun-xing**, ZHU Xiao-feng, TAN Yong-ming, MIAO Yu-song, ZHAO Shi-jun, WU Di. (2024). [**Triaxial Apparatus for Unsaturated Soil Based on Dialysis Method Suction Control**](https://patents.google.com/patent/CN117368002A). Chinese Patent, Patent No. CN117368002A. Application No. CN202311298912.7, Application Date: 2023-10-09, Publication Date: 2024-01-09.  
+- **[P.2]** NIU Geng, KONG Liang, ZHU Xiao-feng, **LI Jun-xing**, AN Li-qi, LÜ Meng-yuan, CHEN Zi-han. (2022). [**Direct Shear Apparatus for Unsaturated Soil with Erosion Monitoring and Control System**](https://patents.google.com/patent/CN115452613A). Chinese Patent, Patent No. CN115452613A. Application No. CN202211220042.7, Application Date: 2022-10-08, Publication Date: 2022-12-09.
 
 ## 🏅 Distinctions & Récompenses
 
@@ -88,7 +90,6 @@ Solides compétences en ingénierie de la recherche et en déploiement de systè
 - 🥈 **Concours de Modélisation Mathématique CUMCM**
 - 🥉 **Défi de Modélisation Mathématique MathorCup**
 - 🥈 **Compétition Provinciale de Physique du Shandong**
-- 🎖️ **Bourse Activités Culturelles & Sportives**
 
 ## 🛠 Compétences
 

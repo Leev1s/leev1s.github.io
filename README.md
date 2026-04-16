@@ -7,9 +7,10 @@ _李俊星_ _Jasen_
 > Welcome to this site! This page contains more details about me.\
 > Personal Email: lev1s at duck dot com
 
+> GitHub: https://github.com/Leev1s
 ## 🙋 Profile
 
-Strong research engineering and system delivery capabilities, able to independently drive the complete pipeline from problem definition, solution design, experimental validation to engineering delivery. During undergraduate studies, built solid modeling, analytical, and teamwork skills through mathematical modeling competitions and research training. During graduate studies, conducted cross-domain practice in cryptocurrency quantitative research and image segmentation post-processing, completing quantitative research framework reconstruction, time-series forecasting pipeline setup, and RankSeg adaptation, experiment reproduction, and environment packaging within mainstream segmentation workflows. Familiar with open-source collaboration, technical documentation and bilingual communication, with practical experience in Agent workflows, automated toolchains and cloud deployment.
+Strong research engineering and system delivery capabilities, able to independently drive the complete pipeline from problem definition, solution design, experimental validation to engineering delivery. During undergraduate studies, built solid modeling, analytical, and teamwork skills through mathematical modeling competitions and research training. During graduate studies, conducted cross-domain practice in cryptocurrency quantitative research and image segmentation post-processing, completing quantitative research framework reconstruction, time-series forecasting pipeline setup, and [RankSEG](https://github.com/rankseg/rankseg) adaptation, experiment reproduction, and environment packaging within mainstream segmentation workflows. Familiar with open-source collaboration, technical documentation and bilingual communication, with practical experience in Agent workflows, automated toolchains and cloud deployment.
 
 ## 🎓 Education
 
@@ -24,8 +25,9 @@ Strong research engineering and system delivery capabilities, able to independen
 
 ### **The Chinese University of Hong Kong (CUHK)**  
 *Part-time Research Assistant | Feb 2026 – Present*  
-- Drove research engineering and deployment of the RankSEG image segmentation post-processing algorithm, responsible for the full pipeline from source code reading and experiment reproduction, mainstream segmentation framework adaptation, inference post-processing integration, and evaluation script development to cluster environment packaging, advancing the algorithm from research prototype to reproducible, deployable engineering form.  
-- Advanced RankSEG integration and extension within mainstream semantic segmentation workflows; participated in mmsegmentation and PaddleSeg framework adaptation, and designed a post-processing helper in a Transformers fork to enable model output probability tensors to be directly fed into Dice/IoU-guided post-processing, supporting optimization of segmentation prediction results without retraining.  
+- Supervised by [Prof. Ben Dai](https://www.bendai.org/).
+- Drove research engineering and deployment of the [RankSEG](https://github.com/rankseg/rankseg) image segmentation post-processing algorithm, responsible for the full pipeline from source code reading and experiment reproduction, mainstream segmentation framework adaptation, inference post-processing integration, and evaluation script development to cluster environment packaging, advancing the algorithm from research prototype to reproducible, deployable engineering form.  
+- Advanced [RankSEG](https://github.com/rankseg/rankseg) integration and extension within mainstream semantic segmentation workflows; participated in mmsegmentation and PaddleSeg framework adaptation, and designed a post-processing helper in a Transformers fork to enable model output probability tensors to be directly fed into Dice/IoU-guided post-processing, supporting optimization of segmentation prediction results without retraining.  
 - Participated in inference post-processing and evaluation pipeline reconstruction, optimizing prediction workflows around Dice/IoU metrics, supplementing logging, evaluation scripts and result tracking to improve experimental comparability, debugging efficiency and reproduction stability.  
 - Set up reproducible experiments using Singularity + Slurm on the CUHK HPC cluster, completing image packaging, dependency management, job template submission and multi-GPU environment adaptation, consolidating scattered experiment commands into unified templates supporting batch experiments on A100, V100, and RTX Pro 6000.  
 - Enhanced project delivery pipeline for community users and potential collaborators by supplementing quickstart guides, integration tutorials, README, interactive demos and playground, advancing cloud demonstration and CI/CD pipeline development to lower onboarding barriers and improve external project visibility.
@@ -74,9 +76,9 @@ Strong research engineering and system delivery capabilities, able to independen
 
 ## 📚 Publications & Patents  
 
-- **[J.1]** [Experimental study on shear strength of unsaturated soil...](https://doi.org/10.16285/j.rsm.2022.2005) – *Rock and Soil Mechanics* (IF=3.721)  
-- **[P.1]** [Triaxial Apparatus for Unsaturated Soil Based on Dialysis Method](https://patents.google.com/patent/CN117368002A) – Chinese Patent CN117368002A  
-- **[P.2]** [Direct Shear Apparatus with Erosion Monitoring](https://patents.google.com/patent/CN115452613A) – Chinese Patent CN115452613A  
+- **[J.1]** NIU Geng, ZHU Xiao-feng, **LI Jun-xing**, LÜ Meng-yuan, AN Li-qi, CHEN Zi-han. (2022). [**Experimental study on shear strength of unsaturated soil over a wide suction range and its prediction**](https://doi.org/10.16285/j.rsm.2022.2005). *Rock and Soil Mechanics*, No. 12, pp. 1-11. DOI: 10.16285/j.rsm.2022.2005. (IF=3.721, EI, CA, JST, CSCD, Peking University Core Journal)  
+- **[P.1]** NIU Geng, **LI Jun-xing**, ZHU Xiao-feng, TAN Yong-ming, MIAO Yu-song, ZHAO Shi-jun, WU Di. (2024). [**Triaxial Apparatus for Unsaturated Soil Based on Dialysis Method Suction Control**](https://patents.google.com/patent/CN117368002A). Chinese Patent, Patent No. CN117368002A. Application No. CN202311298912.7, Application Date: 2023-10-09, Publication Date: 2024-01-09.  
+- **[P.2]** NIU Geng, KONG Liang, ZHU Xiao-feng, **LI Jun-xing**, AN Li-qi, LÜ Meng-yuan, CHEN Zi-han. (2022). [**Direct Shear Apparatus for Unsaturated Soil with Erosion Monitoring and Control System**](https://patents.google.com/patent/CN115452613A). Chinese Patent, Patent No. CN115452613A. Application No. CN202211220042.7, Application Date: 2022-10-08, Publication Date: 2022-12-09.
 
 
 ## 🏅 Honors & Awards  
@@ -86,7 +88,6 @@ Strong research engineering and system delivery capabilities, able to independen
 - 🥈 **CUMCM Mathematical Contest in Modeling** 
 - 🥉 **MathorCup Mathematical Modeling Challenge** 
 - 🥈 **Shandong Provincial Physics Competition** 
-- 🎖️ **Cultural & Sports Activities Scholarship** 
 
 
 

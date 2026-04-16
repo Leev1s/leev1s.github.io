@@ -12,9 +12,11 @@ _LI Junxing_ _Jasen_
 > 欢迎来到这个页面！这里包含更多关于我的信息。\
 > 个人邮箱：lev1s at duck dot com
 
+> GitHub: https://github.com/Leev1s
+> Prof. Ben Dai: https://www.bendai.org/
 ## 🙋 个人总结
 
-具备较强的研究工程化与系统落地能力，能够独立推进从问题定义、方案设计、实验验证到工程交付的完整链路。本科阶段通过数学建模竞赛与科研训练积累了扎实的建模分析、抽象表达与团队协作能力；硕士阶段围绕加密货币量化研究与图像分割后处理算法开展跨方向实践，分别完成量化研究框架重构、时序预测 pipeline 搭建，以及 RankSeg 在主流分割流程中的适配、实验复现与环境封装。熟悉开源协作、技术文档编写与双语沟通，具备 Agent 工作流、自动化工具链与云端部署相关实践经验。
+具备较强的研究工程化与系统落地能力，能够独立推进从问题定义、方案设计、实验验证到工程交付的完整链路。本科阶段通过数学建模竞赛与科研训练积累了扎实的建模分析、抽象表达与团队协作能力；硕士阶段围绕加密货币量化研究与图像分割后处理算法开展跨方向实践，分别完成量化研究框架重构、时序预测 pipeline 搭建，以及 [RankSEG](https://github.com/rankseg/rankseg) 在主流分割流程中的适配、实验复现与环境封装。熟悉开源协作、技术文档编写与双语沟通，具备 Agent 工作流、自动化工具链与云端部署相关实践经验。
 
 ## 🎓 教育经历
 
@@ -28,8 +30,8 @@ _LI Junxing_ _Jasen_
 
 ### **香港中文大学（CUHK）**
 *兼职研究助理 | 2026年2月 – 至今*  
-- 围绕 RankSEG 图像分割后处理算法开展研究工程化落地，负责从源码阅读与实验复现、主流分割框架适配、推理后处理接入、评估脚本开发到集群环境封装的完整链路，推动算法从研究原型走向可复现、可部署的工程形态。  
-- 基于主流 semantic segmentation 流程推进 RankSEG 融合与扩展，参与 mmsegmentation、PaddleSeg 等框架适配，并在 Transformers fork 中设计 post-processing helper，使模型输出概率张量可直接接入 Dice/IoU 导向的后处理流程，支持在不重新训练模型的前提下优化分割预测结果。  
+- 围绕 [RankSEG](https://github.com/rankseg/rankseg) 图像分割后处理算法开展研究工程化落地，负责从源码阅读与实验复现、主流分割框架适配、推理后处理接入、评估脚本开发到集群环境封装的完整链路，推动算法从研究原型走向可复现、可部署的工程形态。  
+- 基于主流 semantic segmentation 流程推进 [RankSEG](https://github.com/rankseg/rankseg) 融合与扩展，参与 mmsegmentation、PaddleSeg 等框架适配，并在 Transformers fork 中设计 post-processing helper，使模型输出概率张量可直接接入 Dice/IoU 导向的后处理流程，支持在不重新训练模型的前提下优化分割预测结果。  
 - 参与推理后处理与评估链路重构，围绕 Dice / IoU 指标优化预测流程，补充日志记录、评估脚本与结果追踪能力，提升实验可比性、排障效率与复现稳定性。  
 - 在 CUHK HPC 集群环境中搭建基于 Singularity + Slurm 的可复现实验方案，完成镜像打包、依赖管理、任务模板化提交与多 GPU 环境适配，将原本分散的实验命令整理为统一模板，支持在 A100、V100、RTX Pro 6000 等环境下进行批量实验与评估。  
 - 面向社区用户与潜在合作者完善项目交付链路，补充 quickstart、接入教程、README、交互式 demo 与 playground，推进云端演示与 CI/CD 流程建设，降低新用户上手门槛并提升项目外部展示效率。
@@ -78,9 +80,9 @@ _LI Junxing_ _Jasen_
 
 ## 📚 论文与专利
 
-- **[J.1]** [Experimental study on shear strength of unsaturated soil...](https://doi.org/10.16285/j.rsm.2022.2005) – *Rock and Soil Mechanics* (IF=3.721)  
-- **[P.1]** [Triaxial Apparatus for Unsaturated Soil Based on Dialysis Method](https://patents.google.com/patent/CN117368002A) – 中国专利 CN117368002A  
-- **[P.2]** [Direct Shear Apparatus with Erosion Monitoring](https://patents.google.com/patent/CN115452613A) – 中国专利 CN115452613A  
+- **[J.1]** NIU Geng, ZHU Xiao-feng, **LI Jun-xing**, LÜ Meng-yuan, AN Li-qi, CHEN Zi-han. (2022). [**Experimental study on shear strength of unsaturated soil over a wide suction range and its prediction**](https://doi.org/10.16285/j.rsm.2022.2005). *Rock and Soil Mechanics*, No. 12, pp. 1-11. DOI: 10.16285/j.rsm.2022.2005. (IF=3.721, EI, CA, JST, CSCD, Peking University Core Journal)  
+- **[P.1]** NIU Geng, **LI Jun-xing**, ZHU Xiao-feng, TAN Yong-ming, MIAO Yu-song, ZHAO Shi-jun, WU Di. (2024). [**Triaxial Apparatus for Unsaturated Soil Based on Dialysis Method Suction Control**](https://patents.google.com/patent/CN117368002A). Chinese Patent, Patent No. CN117368002A. Application No. CN202311298912.7, Application Date: 2023-10-09, Publication Date: 2024-01-09.  
+- **[P.2]** NIU Geng, KONG Liang, ZHU Xiao-feng, **LI Jun-xing**, AN Li-qi, LÜ Meng-yuan, CHEN Zi-han. (2022). [**Direct Shear Apparatus for Unsaturated Soil with Erosion Monitoring and Control System**](https://patents.google.com/patent/CN115452613A). Chinese Patent, Patent No. CN115452613A. Application No. CN202211220042.7, Application Date: 2022-10-08, Publication Date: 2022-12-09.
 
 ## 🏅 荣誉奖项
 
@@ -89,7 +91,6 @@ _LI Junxing_ _Jasen_
 - 🥈 **全国大学生数学建模竞赛（CUMCM）**
 - 🥉 **MathorCup 数学建模挑战赛**
 - 🥈 **山东省大学生物理竞赛**
-- 🎖️ **文体活动奖学金**
 
 ## 🛠 技能
 

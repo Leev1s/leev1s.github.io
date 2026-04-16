@@ -12,9 +12,11 @@ _李俊星_ _Jasen_
 > このサイトへようこそ！このページには私についての詳細が記載されています。\
 > 個人メール：lev1s at duck dot com
 
+> GitHub: https://github.com/Leev1s
+> Prof. Ben Dai: https://www.bendai.org/
 ## 🙋 プロフィール
 
-研究のエンジニアリング化とシステム実装能力が高く、問題定義から方案設計、実験検証、エンジニアリング納品まで完全なパイプラインを独立して推進できます。学部段階では数学モデリングコンテストと研究訓練を通じて、確固たるモデリング分析・抽象的表現・チームワーク能力を蓄積しました。大学院段階では暗号通貨量的研究と画像分割後処理アルゴリズムの両領域で実践を行い、量的研究フレームワークの再構築・時系列予測パイプラインの構築、および主流の分割ワークフローにおけるRankSegの適応・実験再現・環境パッケージングを完成させました。オープンソース協力・技術文書作成・バイリンガルコミュニケーションに精通し、Agentワークフロー・自動化ツールチェーン・クラウドデプロイメントの実践経験を持ちます。
+研究のエンジニアリング化とシステム実装能力が高く、問題定義から方案設計、実験検証、エンジニアリング納品まで完全なパイプラインを独立して推進できます。学部段階では数学モデリングコンテストと研究訓練を通じて、確固たるモデリング分析・抽象的表現・チームワーク能力を蓄積しました。大学院段階では暗号通貨量的研究と画像分割後処理アルゴリズムの両領域で実践を行い、量的研究フレームワークの再構築・時系列予測パイプラインの構築、および主流の分割ワークフローにおける[RankSEG](https://github.com/rankseg/rankseg)の適応・実験再現・環境パッケージングを完成させました。オープンソース協力・技術文書作成・バイリンガルコミュニケーションに精通し、Agentワークフロー・自動化ツールチェーン・クラウドデプロイメントの実践経験を持ちます。
 
 ## 🎓 学歴
 
@@ -29,8 +31,8 @@ _李俊星_ _Jasen_
 
 ### **香港中文大学（CUHK）**
 *パートタイム研究アシスタント | 2026年2月 – 現在*  
-- RankSEG画像分割後処理アルゴリズムの研究工学化と実装を推進し、ソースコード読解・実験再現、主流分割フレームワーク適応、推論後処理統合、評価スクリプト開発からクラスター環境パッケージングまでの完全なパイプラインを担当し、アルゴリズムを研究プロトタイプから再現可能・デプロイ可能な工学形態へと推進しました。  
-- 主流セマンティックセグメンテーションワークフローにおけるRankSEG統合と拡張を推進し、mmsegmentationおよびPaddleSeg フレームワーク適応に参加し、TransformersフォークでPost-processing helperを設計してモデル出力確率テンソルがDice/IoU指向後処理に直接入力できるようにし、再学習なしでセグメンテーション予測結果の最適化をサポートしました。  
+- [RankSEG](https://github.com/rankseg/rankseg)画像分割後処理アルゴリズムの研究工学化と実装を推進し、ソースコード読解・実験再現、主流分割フレームワーク適応、推論後処理統合、評価スクリプト開発からクラスター環境パッケージングまでの完全なパイプラインを担当し、アルゴリズムを研究プロトタイプから再現可能・デプロイ可能な工学形態へと推進しました。  
+- 主流セマンティックセグメンテーションワークフローにおける[RankSEG](https://github.com/rankseg/rankseg)統合と拡張を推進し、mmsegmentationおよびPaddleSeg フレームワーク適応に参加し、TransformersフォークでPost-processing helperを設計してモデル出力確率テンソルがDice/IoU指向後処理に直接入力できるようにし、再学習なしでセグメンテーション予測結果の最適化をサポートしました。  
 - 推論後処理と評価パイプラインの再構築に参加し、Dice/IoUメトリクスを中心に予測ワークフローを最適化し、ログ記録・評価スクリプト・結果追跡を補充して実験比較可能性・デバッグ効率・再現安定性を向上させました。  
 - CUHKのHPCクラスター環境でSingularity + Slurmを使用した再現可能な実験方案を構築し、イメージパッケージング・依存関係管理・ジョブテンプレート提出・マルチGPU環境適応を完成させ、分散した実験コマンドを統一テンプレートに整理し、A100・V100・RTX Pro 6000環境でのバッチ実験と評価をサポートしました。  
 - コミュニティユーザーと潜在的な協力者向けにプロジェクト納品パイプラインを強化し、クイックスタートガイド・統合チュートリアル・README・インタラクティブデモとプレイグラウンドを補充し、クラウドデモンストレーションとCI/CDパイプライン構築を推進して、新規ユーザーのオンボーディング障壁を下げプロジェクトの外部展示効率を向上させました。
@@ -79,9 +81,9 @@ _李俊星_ _Jasen_
 
 ## 📚 論文・特許
 
-- **[J.1]** [非飽和土のせん断強度に関する実験的研究...](https://doi.org/10.16285/j.rsm.2022.2005) – *Rock and Soil Mechanics* (IF=3.721)  
-- **[P.1]** [透析法による非飽和土三軸試験装置](https://patents.google.com/patent/CN117368002A) – 中国特許 CN117368002A  
-- **[P.2]** [侵食モニタリング付き直接せん断試験装置](https://patents.google.com/patent/CN115452613A) – 中国特許 CN115452613A  
+- **[J.1]** NIU Geng, ZHU Xiao-feng, **LI Jun-xing**, LÜ Meng-yuan, AN Li-qi, CHEN Zi-han. (2022). [**Experimental study on shear strength of unsaturated soil over a wide suction range and its prediction**](https://doi.org/10.16285/j.rsm.2022.2005). *Rock and Soil Mechanics*, No. 12, pp. 1-11. DOI: 10.16285/j.rsm.2022.2005. (IF=3.721, EI, CA, JST, CSCD, Peking University Core Journal)  
+- **[P.1]** NIU Geng, **LI Jun-xing**, ZHU Xiao-feng, TAN Yong-ming, MIAO Yu-song, ZHAO Shi-jun, WU Di. (2024). [**Triaxial Apparatus for Unsaturated Soil Based on Dialysis Method Suction Control**](https://patents.google.com/patent/CN117368002A). Chinese Patent, Patent No. CN117368002A. Application No. CN202311298912.7, Application Date: 2023-10-09, Publication Date: 2024-01-09.  
+- **[P.2]** NIU Geng, KONG Liang, ZHU Xiao-feng, **LI Jun-xing**, AN Li-qi, LÜ Meng-yuan, CHEN Zi-han. (2022). [**Direct Shear Apparatus for Unsaturated Soil with Erosion Monitoring and Control System**](https://patents.google.com/patent/CN115452613A). Chinese Patent, Patent No. CN115452613A. Application No. CN202211220042.7, Application Date: 2022-10-08, Publication Date: 2022-12-09.
 
 
 ## 🏅 受賞歴
@@ -91,7 +93,6 @@ _李俊星_ _Jasen_
 - 🥈 **全国大学生数学モデリングコンテスト（CUMCM）**
 - 🥉 **MathorCup 数学モデリングチャレンジ**
 - 🥈 **山東省大学生物理コンテスト**
-- 🎖️ **文化・スポーツ活動奨学金**
 
 
 

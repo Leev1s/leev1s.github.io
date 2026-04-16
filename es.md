@@ -12,9 +12,10 @@ _李俊星_ _Jasen_
 > ¡Bienvenido a este sitio! Esta página contiene más detalles sobre mí.\
 > Correo personal: lev1s at duck dot com
 
+> GitHub: https://github.com/Leev1s
 ## 🙋 Perfil
 
-Sólidas capacidades de ingeniería en investigación y entrega de sistemas, capaz de impulsar de forma independiente el pipeline completo desde la definición del problema, el diseño de la solución y la validación experimental hasta la entrega de ingeniería. Durante los estudios de grado, desarrollé sólidas habilidades de modelado analítico, expresión abstracta y trabajo en equipo a través de concursos de modelado matemático y formación en investigación. Durante el máster, realicé prácticas interdisciplinarias en investigación cuantitativa de criptomonedas y algoritmos de post-procesamiento para segmentación de imágenes, completando la reconstrucción del framework de investigación cuantitativa, la configuración del pipeline de predicción de series temporales, y la adaptación de RankSeg a workflows de segmentación convencionales, reproducción de experimentos y empaquetado de entornos. Familiarizado con la colaboración open-source, la documentación técnica y la comunicación bilingüe, con experiencia práctica en workflows de agentes, cadenas de herramientas automatizadas y despliegue en la nube.
+Sólidas capacidades de ingeniería en investigación y entrega de sistemas, capaz de impulsar de forma independiente el pipeline completo desde la definición del problema, el diseño de la solución y la validación experimental hasta la entrega de ingeniería. Durante los estudios de grado, desarrollé sólidas habilidades de modelado analítico, expresión abstracta y trabajo en equipo a través de concursos de modelado matemático y formación en investigación. Durante el máster, realicé prácticas interdisciplinarias en investigación cuantitativa de criptomonedas y algoritmos de post-procesamiento para segmentación de imágenes, completando la reconstrucción del framework de investigación cuantitativa, la configuración del pipeline de predicción de series temporales, y la adaptación de [RankSEG](https://github.com/rankseg/rankseg) a workflows de segmentación convencionales, reproducción de experimentos y empaquetado de entornos. Familiarizado con la colaboración open-source, la documentación técnica y la comunicación bilingüe, con experiencia práctica en workflows de agentes, cadenas de herramientas automatizadas y despliegue en la nube.
 
 ## 🎓 Educación
 
@@ -28,8 +29,9 @@ Sólidas capacidades de ingeniería en investigación y entrega de sistemas, cap
 
 ### **The Chinese University of Hong Kong (CUHK)**
 *Asistente de Investigación a tiempo parcial | Feb 2026 – Presente*
-- Impulsé la ingeniería de investigación y el despliegue del algoritmo de post-procesamiento de segmentación de imágenes RankSEG, responsable del pipeline completo desde la lectura del código fuente y la reproducción de experimentos, la adaptación a frameworks de segmentación principales, la integración del post-procesamiento de inferencia, el desarrollo de scripts de evaluación hasta el empaquetado del entorno en clúster, haciendo avanzar el algoritmo de prototipo de investigación a una forma de ingeniería reproducible y desplegable.
-- Avancé la integración y extensión de RankSEG en workflows de segmentación semántica convencionales; participé en la adaptación de los frameworks mmsegmentation y PaddleSeg, y diseñé un post-processing helper en un fork de Transformers para permitir que los tensores de probabilidad de salida del modelo se alimenten directamente en el post-procesamiento guiado por Dice/IoU, soportando la optimización de resultados de segmentación sin reentrenamiento.
+- Supervised by [Prof. Ben Dai](https://www.bendai.org/).
+- Impulsé la ingeniería de investigación y el despliegue del algoritmo de post-procesamiento de segmentación de imágenes [RankSEG](https://github.com/rankseg/rankseg), responsable del pipeline completo desde la lectura del código fuente y la reproducción de experimentos, la adaptación a frameworks de segmentación principales, la integración del post-procesamiento de inferencia, el desarrollo de scripts de evaluación hasta el empaquetado del entorno en clúster, haciendo avanzar el algoritmo de prototipo de investigación a una forma de ingeniería reproducible y desplegable.
+- Avancé la integración y extensión de [RankSEG](https://github.com/rankseg/rankseg) en workflows de segmentación semántica convencionales; participé en la adaptación de los frameworks mmsegmentation y PaddleSeg, y diseñé un post-processing helper en un fork de Transformers para permitir que los tensores de probabilidad de salida del modelo se alimenten directamente en el post-procesamiento guiado por Dice/IoU, soportando la optimización de resultados de segmentación sin reentrenamiento.
 - Participé en la reconstrucción del pipeline de post-procesamiento de inferencia y evaluación, optimizando los flujos de predicción en torno a las métricas Dice/IoU, añadiendo registros, scripts de evaluación y seguimiento de resultados para mejorar la comparabilidad experimental, la eficiencia de depuración y la estabilidad de reproducción.
 - Configuré experimentos reproducibles usando Singularity + Slurm en el clúster HPC de CUHK, completando el empaquetado de imágenes, la gestión de dependencias, la presentación de trabajos por plantillas y la adaptación a entornos multi-GPU, consolidando comandos de experimentos dispersos en plantillas unificadas que soportan experimentos en lote en A100, V100 y RTX Pro 6000.
 - Mejoré el pipeline de entrega del proyecto para usuarios de la comunidad y colaboradores potenciales añadiendo guías de inicio rápido, tutoriales de integración, README, demos interactivas y playground, avanzando en la demostración cloud y el desarrollo del pipeline CI/CD para reducir las barreras de incorporación y mejorar la visibilidad externa del proyecto.
@@ -77,9 +79,9 @@ Sólidas capacidades de ingeniería en investigación y entrega de sistemas, cap
 
 ## 📚 Publicaciones & Patentes
 
-- **[J.1]** [Estudio experimental sobre la resistencia al corte de suelos no saturados...](https://doi.org/10.16285/j.rsm.2022.2005) – *Rock and Soil Mechanics* (IF=3.721)
-- **[P.1]** [Aparato Triaxial para Suelo No Saturado Basado en el Método de Diálisis](https://patents.google.com/patent/CN117368002A) – Patente China CN117368002A
-- **[P.2]** [Aparato de Corte Directo con Monitoreo de Erosión](https://patents.google.com/patent/CN115452613A) – Patente China CN115452613A
+- **[J.1]** NIU Geng, ZHU Xiao-feng, **LI Jun-xing**, LÜ Meng-yuan, AN Li-qi, CHEN Zi-han. (2022). [**Experimental study on shear strength of unsaturated soil over a wide suction range and its prediction**](https://doi.org/10.16285/j.rsm.2022.2005). *Rock and Soil Mechanics*, No. 12, pp. 1-11. DOI: 10.16285/j.rsm.2022.2005. (IF=3.721, EI, CA, JST, CSCD, Peking University Core Journal)  
+- **[P.1]** NIU Geng, **LI Jun-xing**, ZHU Xiao-feng, TAN Yong-ming, MIAO Yu-song, ZHAO Shi-jun, WU Di. (2024). [**Triaxial Apparatus for Unsaturated Soil Based on Dialysis Method Suction Control**](https://patents.google.com/patent/CN117368002A). Chinese Patent, Patent No. CN117368002A. Application No. CN202311298912.7, Application Date: 2023-10-09, Publication Date: 2024-01-09.  
+- **[P.2]** NIU Geng, KONG Liang, ZHU Xiao-feng, **LI Jun-xing**, AN Li-qi, LÜ Meng-yuan, CHEN Zi-han. (2022). [**Direct Shear Apparatus for Unsaturated Soil with Erosion Monitoring and Control System**](https://patents.google.com/patent/CN115452613A). Chinese Patent, Patent No. CN115452613A. Application No. CN202211220042.7, Application Date: 2022-10-08, Publication Date: 2022-12-09.
 
 ## 🏅 Honores & Premios
 
@@ -88,7 +90,6 @@ Sólidas capacidades de ingeniería en investigación y entrega de sistemas, cap
 - 🥈 **Concurso de Modelado Matemático CUMCM**
 - 🥉 **Desafío de Modelado Matemático MathorCup**
 - 🥈 **Competencia Provincial de Física de Shandong**
-- 🎖️ **Beca de Actividades Culturales y Deportivas**
 
 ## 🛠 Habilidades
 

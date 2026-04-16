@@ -12,9 +12,11 @@ _李俊星_ _Jasen_
 > 이 사이트에 오신 것을 환영합니다! 이 페이지에는 저에 대한 자세한 정보가 담겨 있습니다.\
 > 개인 이메일: lev1s at duck dot com
 
+> GitHub: https://github.com/Leev1s
+> Prof. Ben Dai: https://www.bendai.org/
 ## 🙋 프로필
 
-강한 연구 엔지니어링 및 시스템 구현 능력을 보유하여, 문제 정의에서 방안 설계, 실험 검증, 엔지니어링 납품까지 완전한 파이프라인을 독립적으로 추진할 수 있습니다. 학부 단계에서는 수학 모델링 대회와 연구 훈련을 통해 탄탄한 모델링 분석·추상 표현·팀워크 능력을 쌓았으며, 대학원 단계에서는 암호화폐 퀀트 연구와 이미지 분할 후처리 알고리즘 분야에서 교차 실천을 수행하여 퀀트 연구 프레임워크 재구축·시계열 예측 파이프라인 구축, 그리고 주류 분할 워크플로우에서의 RankSeg 적응·실험 재현·환경 패키징을 완성했습니다. 오픈소스 협력·기술 문서 작성·이중 언어 소통에 능숙하며, Agent 워크플로우·자동화 툴체인·클라우드 배포 관련 실무 경험을 보유하고 있습니다.
+강한 연구 엔지니어링 및 시스템 구현 능력을 보유하여, 문제 정의에서 방안 설계, 실험 검증, 엔지니어링 납품까지 완전한 파이프라인을 독립적으로 추진할 수 있습니다. 학부 단계에서는 수학 모델링 대회와 연구 훈련을 통해 탄탄한 모델링 분석·추상 표현·팀워크 능력을 쌓았으며, 대학원 단계에서는 암호화폐 퀀트 연구와 이미지 분할 후처리 알고리즘 분야에서 교차 실천을 수행하여 퀀트 연구 프레임워크 재구축·시계열 예측 파이프라인 구축, 그리고 주류 분할 워크플로우에서의 [RankSEG](https://github.com/rankseg/rankseg) 적응·실험 재현·환경 패키징을 완성했습니다. 오픈소스 협력·기술 문서 작성·이중 언어 소통에 능숙하며, Agent 워크플로우·자동화 툴체인·클라우드 배포 관련 실무 경험을 보유하고 있습니다.
 
 ## 🎓 학력
 
@@ -29,8 +31,8 @@ _李俊星_ _Jasen_
 
 ### **홍콩 중문대학교（CUHK）**
 *파트타임 연구 보조원 | 2026년 2월 – 현재*  
-- RankSEG 이미지 분할 후처리 알고리즘의 연구 엔지니어링화 및 구현을 추진하여, 소스 코드 읽기와 실험 재현, 주류 분할 프레임워크 적응, 추론 후처리 통합, 평가 스크립트 개발부터 클러스터 환경 패키징까지 전체 파이프라인을 담당하여 알고리즘을 연구 프로토타입에서 재현 가능하고 배포 가능한 엔지니어링 형태로 발전시켰습니다.  
-- 주류 시맨틱 세그멘테이션 워크플로우에서 RankSEG 통합과 확장을 추진하였으며, mmsegmentation 및 PaddleSeg 프레임워크 적응에 참여하고, Transformers 포크에서 post-processing helper를 설계하여 모델 출력 확률 텐서가 Dice/IoU 지향 후처리에 직접 입력될 수 있도록 하여 재학습 없이 분할 예측 결과를 최적화할 수 있도록 지원했습니다.  
+- [RankSEG](https://github.com/rankseg/rankseg) 이미지 분할 후처리 알고리즘의 연구 엔지니어링화 및 구현을 추진하여, 소스 코드 읽기와 실험 재현, 주류 분할 프레임워크 적응, 추론 후처리 통합, 평가 스크립트 개발부터 클러스터 환경 패키징까지 전체 파이프라인을 담당하여 알고리즘을 연구 프로토타입에서 재현 가능하고 배포 가능한 엔지니어링 형태로 발전시켰습니다.  
+- 주류 시맨틱 세그멘테이션 워크플로우에서 [RankSEG](https://github.com/rankseg/rankseg) 통합과 확장을 추진하였으며, mmsegmentation 및 PaddleSeg 프레임워크 적응에 참여하고, Transformers 포크에서 post-processing helper를 설계하여 모델 출력 확률 텐서가 Dice/IoU 지향 후처리에 직접 입력될 수 있도록 하여 재학습 없이 분할 예측 결과를 최적화할 수 있도록 지원했습니다.  
 - 추론 후처리 및 평가 파이프라인 재구축에 참여하여, Dice/IoU 메트릭을 중심으로 예측 워크플로우를 최적화하고 로깅, 평가 스크립트와 결과 추적을 보강하여 실험 비교 가능성, 디버깅 효율 및 재현 안정성을 향상시켰습니다.  
 - CUHK HPC 클러스터 환경에서 Singularity + Slurm 기반의 재현 가능한 실험 방안을 구축하여 이미지 패키징, 의존성 관리, 작업 템플릿 제출 및 멀티 GPU 환경 적응을 완성하고, 분산된 실험 명령을 통합 템플릿으로 정리하여 A100, V100, RTX Pro 6000 환경에서 배치 실험과 평가를 지원했습니다.  
 - 커뮤니티 사용자와 잠재적 협력자를 위한 프로젝트 납품 파이프라인을 강화하여 퀵스타트 가이드, 통합 튜토리얼, README, 인터랙티브 데모와 플레이그라운드를 보강하고, 클라우드 시연과 CI/CD 파이프라인 구축을 추진하여 신규 사용자의 온보딩 장벽을 낮추고 프로젝트 외부 노출 효율을 향상시켰습니다.
@@ -79,9 +81,9 @@ _李俊星_ _Jasen_
 
 ## 📚 논문 및 특허
 
-- **[J.1]** [불포화 토양의 전단 강도에 관한 실험 연구...](https://doi.org/10.16285/j.rsm.2022.2005) – *Rock and Soil Mechanics* (IF=3.721)  
-- **[P.1]** [투석법 기반 불포화 토양 삼축 시험 장치](https://patents.google.com/patent/CN117368002A) – 중국 특허 CN117368002A  
-- **[P.2]** [침식 모니터링이 가능한 직접 전단 시험 장치](https://patents.google.com/patent/CN115452613A) – 중국 특허 CN115452613A  
+- **[J.1]** NIU Geng, ZHU Xiao-feng, **LI Jun-xing**, LÜ Meng-yuan, AN Li-qi, CHEN Zi-han. (2022). [**Experimental study on shear strength of unsaturated soil over a wide suction range and its prediction**](https://doi.org/10.16285/j.rsm.2022.2005). *Rock and Soil Mechanics*, No. 12, pp. 1-11. DOI: 10.16285/j.rsm.2022.2005. (IF=3.721, EI, CA, JST, CSCD, Peking University Core Journal)  
+- **[P.1]** NIU Geng, **LI Jun-xing**, ZHU Xiao-feng, TAN Yong-ming, MIAO Yu-song, ZHAO Shi-jun, WU Di. (2024). [**Triaxial Apparatus for Unsaturated Soil Based on Dialysis Method Suction Control**](https://patents.google.com/patent/CN117368002A). Chinese Patent, Patent No. CN117368002A. Application No. CN202311298912.7, Application Date: 2023-10-09, Publication Date: 2024-01-09.  
+- **[P.2]** NIU Geng, KONG Liang, ZHU Xiao-feng, **LI Jun-xing**, AN Li-qi, LÜ Meng-yuan, CHEN Zi-han. (2022). [**Direct Shear Apparatus for Unsaturated Soil with Erosion Monitoring and Control System**](https://patents.google.com/patent/CN115452613A). Chinese Patent, Patent No. CN115452613A. Application No. CN202211220042.7, Application Date: 2022-10-08, Publication Date: 2022-12-09.
 
 
 ## 🏅 수상 내역
@@ -91,7 +93,6 @@ _李俊星_ _Jasen_
 - 🥈 **전국 대학생 수학 모델링 경시대회（CUMCM）**
 - 🥉 **MathorCup 수학 모델링 챌린지**
 - 🥈 **산동성 대학생 물리 경시대회**
-- 🎖️ **문화·스포츠 활동 장학금**
 
 
 
