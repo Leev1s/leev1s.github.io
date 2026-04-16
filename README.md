@@ -8,7 +8,6 @@ _李俊星_ _Jasen_
 > Personal Email: lev1s at duck dot com
 
 > GitHub: https://github.com/Leev1s
-> Prof. Ben Dai: https://www.bendai.org/
 ## 🙋 Profile
 
 Strong research engineering and system delivery capabilities, able to independently drive the complete pipeline from problem definition, solution design, experimental validation to engineering delivery. During undergraduate studies, built solid modeling, analytical, and teamwork skills through mathematical modeling competitions and research training. During graduate studies, conducted cross-domain practice in cryptocurrency quantitative research and image segmentation post-processing, completing quantitative research framework reconstruction, time-series forecasting pipeline setup, and [RankSEG](https://github.com/rankseg/rankseg) adaptation, experiment reproduction, and environment packaging within mainstream segmentation workflows. Familiar with open-source collaboration, technical documentation and bilingual communication, with practical experience in Agent workflows, automated toolchains and cloud deployment.

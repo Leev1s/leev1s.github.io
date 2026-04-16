@@ -13,7 +13,6 @@ _LI Junxing_ _Jasen_
 > 个人邮箱：lev1s at duck dot com
 
 > GitHub: https://github.com/Leev1s
-> Prof. Ben Dai: https://www.bendai.org/
 ## 🙋 个人总结
 
 具备较强的研究工程化与系统落地能力，能够独立推进从问题定义、方案设计、实验验证到工程交付的完整链路。本科阶段通过数学建模竞赛与科研训练积累了扎实的建模分析、抽象表达与团队协作能力；硕士阶段围绕加密货币量化研究与图像分割后处理算法开展跨方向实践，分别完成量化研究框架重构、时序预测 pipeline 搭建，以及 [RankSEG](https://github.com/rankseg/rankseg) 在主流分割流程中的适配、实验复现与环境封装。熟悉开源协作、技术文档编写与双语沟通，具备 Agent 工作流、自动化工具链与云端部署相关实践经验。
@@ -30,6 +29,7 @@ _LI Junxing_ _Jasen_
 
 ### **香港中文大学（CUHK）**
 *兼职研究助理 | 2026年2月 – 至今*  
+- Supervised by [Prof. Ben Dai](https://www.bendai.org/).
 - 围绕 [RankSEG](https://github.com/rankseg/rankseg) 图像分割后处理算法开展研究工程化落地，负责从源码阅读与实验复现、主流分割框架适配、推理后处理接入、评估脚本开发到集群环境封装的完整链路，推动算法从研究原型走向可复现、可部署的工程形态。  
 - 基于主流 semantic segmentation 流程推进 [RankSEG](https://github.com/rankseg/rankseg) 融合与扩展，参与 mmsegmentation、PaddleSeg 等框架适配，并在 Transformers fork 中设计 post-processing helper，使模型输出概率张量可直接接入 Dice/IoU 导向的后处理流程，支持在不重新训练模型的前提下优化分割预测结果。  
 - 参与推理后处理与评估链路重构，围绕 Dice / IoU 指标优化预测流程，补充日志记录、评估脚本与结果追踪能力，提升实验可比性、排障效率与复现稳定性。  
