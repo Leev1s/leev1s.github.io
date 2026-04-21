@@ -58,6 +58,7 @@ Solides compétences en ingénierie de la recherche et en déploiement de systè
 ### **Étude Expérimentale sur la Résistance au Cisaillement des Sols Non Saturés**
 *Membre clé | Subvention de la Fondation Nationale des Sciences Naturelles de Chine*
 [📄 Article (Rock and Soil Mechanics)](https://doi.org/10.16285/j.rsm.2022.2005)
+*Grant No.: 42307236, 12172187, 12072170*  
 - Développement de **modèles MATLAB** haute précision (>**98% de précision**)
 - Optimisation de **code C** pour 200k+ points de données → **accélération 3×**
 - Production de visualisations en **Python / Origin**
@@ -71,9 +72,9 @@ Solides compétences en ingénierie de la recherche et en déploiement de systè
 
 ### **Modélisation Épidémiologique du COVID-19**
 *MathorCup 2022*
-- Proposition du **modèle $SIER_1R_2-T$** intégrant la **dynamique des médias & des rumeurs**
+- Proposition du **modèle $SIERR-T$** intégrant la **dynamique des médias & des rumeurs**
 - **Analyse de sentiment NLP** sur **5M de commentaires Weibo**
-- **Modèle d'apprentissage profond** pour la prévision de données de panel
+- Application de méthodes d'apprentissage profond pour la détection des rumeurs et la prévision des tendances de propagation, avec de bonnes performances prédictives sur les jeux expérimentaux
 - Analyse des effets des politiques via les [données OxCGRT](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker)
 
 ## 📚 Publications & Brevets
