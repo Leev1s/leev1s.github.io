@@ -58,6 +58,7 @@ Sólidas capacidades de ingeniería en investigación y entrega de sistemas, cap
 ### **Estudio Experimental sobre la Resistencia al Corte de Suelos No Saturados**
 *Miembro Principal | Subvención de la Fundación Nacional de Ciencias Naturales de China*
 [📄 Artículo (Rock and Soil Mechanics)](https://doi.org/10.16285/j.rsm.2022.2005)
+*Grant No.: 42307236, 12172187, 12072170*  
 - Desarrollo de **modelos MATLAB** de alta precisión (>**98% de precisión**)
 - Optimización de **código C** para más de 200k puntos de datos → **aceleración 3×**
 - Producción de visualizaciones en **Python / Origin**
@@ -71,9 +72,9 @@ Sólidas capacidades de ingeniería en investigación y entrega de sistemas, cap
 
 ### **Modelado Epidemiológico del COVID-19**
 *MathorCup 2022*
-- Propuesta del **modelo $SIER_1R_2-T$** integrando la **dinámica de medios y rumores**
+- Propuesta del **modelo $SIERR-T$** integrando la **dinámica de medios y rumores**
 - **Análisis de sentimientos NLP** sobre **5M de comentarios de Weibo**
-- **Modelo de aprendizaje profundo** para predicción de datos de panel
+- Aplicación de métodos de aprendizaje profundo para detección de rumores y pronóstico de tendencias de propagación, logrando buen rendimiento predictivo en los conjuntos experimentales
 - Análisis de efectos de políticas usando [datos OxCGRT](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker)
 
 ## 📚 Publicaciones & Patentes

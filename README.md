@@ -51,25 +51,27 @@ Strong research engineering and system delivery capabilities, able to independen
 - Built statistical learning models for **place** and **place Q** betting scenarios using historical race data, completing feature engineering, model training and result evaluation.  
 - Achieved high predictive accuracy in Sha Tin racecourse samples and small-scale validation, supporting subsequent betting strategy analysis and model optimization.  
 
-### **Experimental Study on Shear Strength of Unsaturated Soil**  
+### **Experimental Study on Shear Strength of Unsaturated Soil over a Wide Suction Range and Its Prediction**  
 *Core Team Member | National Natural Science Foundation of China Grant*  
+*Grant No.: 42307236, 12172187, 12072170*  
 [📄 Journal Paper (Rock and Soil Mechanics)](https://doi.org/10.16285/j.rsm.2022.2005)  
-- Developed high-accuracy **MATLAB models** (>**98% accuracy**)  
-- Optimized **C code** for 200k+ data points → **3× speedup**  
-- Produced visualizations in **Python / Origin**  
-- Co-authored **two national patents**  
+- Participated in experimental study and predictive modeling of unsaturated soil shear strength; implemented high-accuracy simulation algorithms in **MATLAB** with model fit accuracy above **98%**.  
+- Rewrote and optimized data-fitting functions in **C**, supporting 200k+ data points and improving core computational efficiency by about **300%**.  
+- Performed data analysis and visualization using **Python / Origin**, supporting result interpretation, model validation, and paper writing.  
+- Identified equipment limitations during simulation and experimental analysis, contributing to two patent outcomes for apparatus improvement and measurement-control enhancement.  
 
 ### **Study on the Generation of Multi-rule Fractals**  
-*Graduation Thesis*  
-- Built GPU-accelerated fractal model using **Taichi**, achieving **100× speedup**  
-- Implemented real-time fractal rendering & interaction  
-- Identified improvements over existing fractal generation systems  
+*Outstanding Graduation Thesis*  
+- Conducted a systematic review of existing fractal generation methods and rule systems, analyzing limitations in expressive capacity, control mechanisms, and generation efficiency.  
+- Constructed a multi-rule fractal generation model driven by complex dynamical systems, providing a theoretical and implementation basis for compositional generation and evolutionary control.  
+- Implemented GPU-accelerated computation based on **Taichi (Python)**, achieving about **100×** performance improvement over the original implementation.  
+- Implemented real-time fractal rendering and interactive visualization, improving model interpretability and extensibility for follow-up research.  
 
 ### **Epidemiological Modeling of COVID-19**  
 *MathorCup 2022*  
-- Proposed **$SIER_1R_2-T$ model** integrating **media & rumor dynamics**  
+- Proposed **SIERR-T model** integrating **media & rumor dynamics**  
 - **NLP sentiment analysis** on **5M Weibo comments**  
-- **Deep learning model** for panel data forecasting  
+- Applied deep learning methods for rumor detection and trend forecasting, achieving strong predictive performance on experimental datasets.  
 - Analyzed policy effects using [OxCGRT Data](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker)  
 
 
@@ -82,11 +84,11 @@ Strong research engineering and system delivery capabilities, able to independen
 
 ## 🏅 Honors & Awards  
 
-- 🥈 **Chinese Mathematics Competitions (CMC)**
-- 🥈 **Shandong Provincial Mathematics Competition** 
-- 🥈 **CUMCM Mathematical Contest in Modeling** 
-- 🥉 **MathorCup Mathematical Modeling Challenge** 
-- 🥈 **Shandong Provincial Physics Competition** 
+- 🥈 **Chinese Mathematics Competitions (CMC), National Second Prize** *(Jan 2023)*
+- 🥈 **CUMCM Mathematical Contest in Modeling, Shandong Second Prize** *(Nov 2022)*
+- 🥈 **Shandong Provincial Mathematics Competition, Shandong Second Prize** *(Nov 2022)*
+- 🥉 **MathorCup Mathematical Modeling Challenge, National Third Prize** *(May 2022)*
+- 🥈 **Shandong Provincial Physics Competition, Shandong Second Prize** *(Nov 2021)*
 
 
 
@@ -112,6 +114,12 @@ Strong research engineering and system delivery capabilities, able to independen
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
+
+
+### Toolchain Highlights
+- **Python stack**: Python (Keras / TensorFlow / PyTorch), R, SQL, MATLAB, C, Shell
+- **Systems**: Linux/Unix (4 years), Git, MySQL, Redis, Slurm, Singularity/Docker, GitHub CI/CD
+- **Productivity & Agents**: Jupyter Notebook, VS Code, Claude Code, Codex, Dify, Cloudflare, LaTeX, Office
 
 ## 🌏 Languages
 
