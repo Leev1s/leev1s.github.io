@@ -85,11 +85,11 @@ Solides compétences en ingénierie de la recherche et en déploiement de systè
 
 ## 🏅 Distinctions & Récompenses
 
-- 🥈 **Compétition Chinoise de Mathématiques (CMC)**
-- 🥈 **Compétition Provinciale de Mathématiques du Shandong**
-- 🥈 **Concours de Modélisation Mathématique CUMCM**
-- 🥉 **Défi de Modélisation Mathématique MathorCup**
-- 🥈 **Compétition Provinciale de Physique du Shandong**
+- 🥈 **Compétition Chinoise de Mathématiques (CMC), Deuxième Prix National** *(janv. 2023)*
+- 🥈 **Concours de Modélisation Mathématique CUMCM, Deuxième Prix du Shandong** *(nov. 2022)*
+- 🥈 **Compétition Provinciale de Mathématiques du Shandong, Deuxième Prix du Shandong** *(nov. 2022)*
+- 🥉 **Défi de Modélisation Mathématique MathorCup, Troisième Prix National** *(mai 2022)*
+- 🥈 **Compétition Provinciale de Physique du Shandong, Deuxième Prix du Shandong** *(nov. 2021)*
 
 ## 🛠 Compétences
 

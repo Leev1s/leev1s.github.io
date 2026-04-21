@@ -85,11 +85,11 @@ Sólidas capacidades de ingeniería en investigación y entrega de sistemas, cap
 
 ## 🏅 Honores & Premios
 
-- 🥈 **Competencia China de Matemáticas (CMC)**
-- 🥈 **Competencia Provincial de Matemáticas de Shandong**
-- 🥈 **Concurso de Modelado Matemático CUMCM**
-- 🥉 **Desafío de Modelado Matemático MathorCup**
-- 🥈 **Competencia Provincial de Física de Shandong**
+- 🥈 **Competencia China de Matemáticas (CMC), Segundo Premio Nacional** *(ene 2023)*
+- 🥈 **Concurso de Modelado Matemático CUMCM, Segundo Premio de Shandong** *(nov 2022)*
+- 🥈 **Competencia Provincial de Matemáticas de Shandong, Segundo Premio de Shandong** *(nov 2022)*
+- 🥉 **Desafío de Modelado Matemático MathorCup, Tercer Premio Nacional** *(may 2022)*
+- 🥈 **Competencia Provincial de Física de Shandong, Segundo Premio de Shandong** *(nov 2021)*
 
 ## 🛠 Habilidades
 
