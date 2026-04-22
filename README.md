@@ -11,6 +11,38 @@ _李俊星_ _Jasen_
 
 Strong research engineering and system delivery capabilities, able to independently drive the complete pipeline from problem definition, solution design, experimental validation to engineering delivery. During undergraduate studies, built solid modeling, analytical, and teamwork skills through mathematical modeling competitions and research training. During graduate studies, conducted cross-domain practice in cryptocurrency quantitative research and image segmentation post-processing, completing quantitative research framework reconstruction, time-series forecasting pipeline setup, and [RankSEG](https://github.com/rankseg/rankseg) adaptation, experiment reproduction, and environment packaging within mainstream segmentation workflows. Familiar with open-source collaboration, technical documentation and bilingual communication, with practical experience in Agent workflows, automated toolchains and cloud deployment.
 
+## 🌈Color Balance
+
+```text
+Color   Share   Bar            Meaning
+-----   -----   ------------   ---------------------------------------------
+Black   40.6%   ████████░░░░   Agency, achievement, strategic execution
+Blue    26.9%   █████░░░░░░░   Understanding, mastery, analytical depth
+Red     14.4%   ███░░░░░░░░░   Intensity, candor, pressure tolerance
+White   12.7%   ███░░░░░░░░░   Structure, order, stability
+Green    5.4%   █░░░░░░░░░░░   Connection, emotional attunement, harmony
+```
+
+My profile is strongly Black-Blue: action paired with analysis.
+
+- Black shows up as drive, agency, and a bias toward getting things done.
+- Blue adds precision, curiosity, and a preference for understanding how systems actually work.
+- Red contributes some appetite for pressure, directness, and intensity.
+- White is present, but secondary: I value structure when it improves execution.
+- Green is the least prominent, which means I am less naturally oriented around emotional atmosphere or consensus-building.
+
+### Core Pattern
+
+I do my best work when there is a difficult problem, a real constraint, and enough room to think clearly.
+
+I am drawn to environments where rigor matters, where complexity is not avoided, and where outcomes can be judged by whether they hold up in practice. I tend to trust methods that are testable, repeatable, and grounded in reality. I would rather build a working system than produce a persuasive description of one.
+
+In teams, this often means I contribute through problem-solving, structure, and execution. I may not always lead with warmth or visibility, but I tend to care by making things work, reducing ambiguity, and carrying difficult tasks across the finish line.
+
+### Reference
+
+- SoulTrace Result: <https://soultrace.app/en/results/48093f7c-7980-4f83-97a2-e5b8df3a103f>
+
 ## 🎓 Education
 
 - **City University of Hong Kong** *(Sep 2025 – Oct 2026)*  
