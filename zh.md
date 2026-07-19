@@ -10,53 +10,64 @@ _LI Junxing_ _Jasen_
 [العربية](/ar/) · [EN](/) · [Español](/es/) · [فارسی](/fa/) · [Français](/fr/) · [हिन्दी](/hi/) · [日本語](/ja/) · [한국어](/ko/) · [Русский](/ru/) · **中文**
 
 > 欢迎来到这个页面！这里包含更多关于我的信息。\
-> 个人邮箱：lev1s at duck dot com
+> 个人邮箱：lev1s at foxmail dot com
 
 ## 🙋 个人总结
 
-具备较强的研究工程化与系统落地能力，能够独立推进从问题定义、方案设计、实验验证到工程交付的完整链路。本科阶段通过数学建模竞赛与科研训练积累了扎实的建模分析、抽象表达与团队协作能力；硕士阶段围绕加密货币量化研究与图像分割后处理算法开展跨方向实践，分别完成量化研究框架重构、时序预测 pipeline 搭建，以及 [RankSEG](https://github.com/rankseg/rankseg) 在主流分割流程中的适配、实验复现与环境封装。熟悉开源协作、技术文档编写与双语沟通，具备 Agent 工作流、自动化工具链与云端部署相关实践经验。
+具备数学与统计学背景的研究工程师，主要从事量化研究工程、金融数据基础设施、计算机视觉后处理和企业级 AI Agent 交付。我能够将问题从定义与实验验证推进到可复现的数据/模型工作流、工程交付和面向用户的文档。
+
+当前的实践将量化数据平台与信号研究、RankSEG 图像分割研究工程，以及实用的 AI Agent 工作流设计结合起来。我重视可测试、可复现，并能在真实运行环境中发挥作用的系统。
+
+**当前重点：**量化研究工程、金融数据基础设施、研究平台、交易数据服务，以及 AI 解决方案与 Agent 自动化。
 
 ## 🎓 教育经历
 
-- **香港城市大学** *(2025年9月 – 2026年10月)*  
-  *生物统计学理学硕士*  
+- **香港城市大学** *(2025年9月 – 2026年10月)*<br>
+  *统计学理学硕士*
 
 - **青岛理工大学** *(2020年9月 – 2024年6月)*  
   *数学与应用数学理学学士*  
 
 ## 💼 实习与科研经历
 
+### **Sika China**
+*AI Agent 实习生 | 2026年4月 – 2026年7月*
+
+- 围绕重复性强、依赖经验的工作流，参与 AI 产品支持、内部解决方案、数据自动化和业务运营相关工作。
+- 将较为宽泛的业务需求拆解为结构化输入、规则、Agent/Skill 设计、MVP、反馈闭环和验收标准。
+- 支持 Agent 的内部推广、用户启用、培训、SOP 文档和可复用工作流资产建设，并在适当边界内处理业务信息。
+- 针对数据处理、知识检索、报告和演示文稿流程构建与调整实用自动化方案，兼顾视觉质量、可编辑性与复用性。
+
 ### **香港中文大学（CUHK）**
 *兼职研究助理 | 2026年2月 – 至今*  
 - Supervised by [Prof. Ben Dai](https://www.bendai.org/).
-- 围绕 [RankSEG](https://github.com/rankseg/rankseg) 图像分割后处理算法开展研究工程化落地，负责从源码阅读与实验复现、主流分割框架适配、推理后处理接入、评估脚本开发到集群环境封装的完整链路，推动算法从研究原型走向可复现、可部署的工程形态。  
-- 基于主流 semantic segmentation 流程推进 [RankSEG](https://github.com/rankseg/rankseg) 融合与扩展，参与 mmsegmentation、PaddleSeg 等框架适配，并在 Transformers fork 中设计 post-processing helper，使模型输出概率张量可直接接入 Dice/IoU 导向的后处理流程，支持在不重新训练模型的前提下优化分割预测结果。  
-- 参与推理后处理与评估链路重构，围绕 Dice / IoU 指标优化预测流程，补充日志记录、评估脚本与结果追踪能力，提升实验可比性、排障效率与复现稳定性。  
-- 在 CUHK HPC 集群环境中搭建基于 Singularity + Slurm 的可复现实验方案，完成镜像打包、依赖管理、任务模板化提交与多 GPU 环境适配，将原本分散的实验命令整理为统一模板，支持在 A100、V100、RTX Pro 6000 等环境下进行批量实验与评估。  
-- 面向社区用户与潜在合作者完善项目交付链路，补充 quickstart、接入教程、README、交互式 demo 与 playground，推进云端演示与 CI/CD 流程建设，降低新用户上手门槛并提升项目外部展示效率。
+- 围绕 [RankSEG](https://github.com/rankseg/rankseg) 图像分割后处理算法开展研究工程化与部署，覆盖源码阅读、实验复现、框架适配、推理集成、评估和集群环境封装。
+- 推进 RankSEG 在语义分割工作流中的适配，涉及 mmsegmentation、PaddleSeg、Hugging Face Transformers 以及 SAM 系列模型路径；设计接口，使模型得分张量能够用于面向 Dice/IoU 的后处理，而无需重新训练。
+- 构建可复现的评估、日志和结果追踪流程，提升实验可比性、排障效率和复现稳定性。
+- 在 CUHK HPC 上封装 Singularity + Slurm 环境，并准备可复用的多 GPU 实验作业模板。
+- 通过已合并的 [Transformers PR #19](https://github.com/rankseg/rankseg/pull/19)、[SAM 集成 PR #20](https://github.com/rankseg/rankseg/pull/20)、[集成文档 PR #22](https://github.com/rankseg/rankseg/pull/22) 以及 [MONAI PR #2](https://github.com/rankseg/MONAI/pull/2)，参与 RankSEG 生态的公开协作。
 
 ### **浙江明策资产管理有限公司**
-*量化架构实习生（CityUHK Bios Coop）| 2025.9 -- 2026.4*  
-*加密货币量化交易与策略开发*  
-- 面向加密资产日频交易场景，围绕 BTC、ETH 及后续流动性 Top40 币种开展信号研究与框架搭建，负责从链上数据清洗、特征构建、因子预处理、建模预测、时间序列回测到信号生成的全流程研发。  
-- 基于 Random Forest、XGBoost 等树模型开展主动因子挖掘与信号增强，结合平稳性检验、相关性检验及因子分类型预处理策略提升输入特征质量，并探索不同响应变量构造方式与横截面信号对主信号的补充效果。  
-- 主导将早期基于 R Markdown 的试验性脚本重构为模块化 Python-R-SQL 研究框架，从 0 到 1 设计代码目录、模块边界、函数入口、变量命名、数据结构及 YAML 配置机制，形成可复用、可扩展的量化研究与回测 pipeline。  
-- 针对金融时序高噪声、高共线性问题，应用 MAVE、Autoencoder 等方法进行特征降维与有效表示学习，并结合严格的时间序列交叉验证与超参数搜索流程控制信息泄露风险，提升模型评估的稳健性与可信度。  
-- 基于 8 年历史数据、最近 1 年滚动回测窗口开展 7/14/28 天多周期方向预测验证，以 log return 符号为核心方向标签构建分类与连续预测双路径评估体系，方向预测准确率达到约 **65%**。  
-- 打通研究到生产的信号交付链路，支持多币种并行训练、预测与回测，统一通过 YAML 配置驱动生产环境读取参数并生成交易信号，结果以 JSON/API 形式回传并入 SQL 库，支撑后续前端展示与实盘侧衔接。
+*量化架构实习生 | 2025年9月 – 2026年4月*
+*量化研究工程与数字资产数据基础设施*
+- 搭建量化研究数据平台，覆盖约 8 年历史数据和流动性排名 Top 40 的数字资产，整合分钟级与日频 OHLCV 数据、链上指标和衍生因子。
+- 管理约 1.7 亿条分钟级市场记录、3,000 个候选特征和约 20 GB Parquet 数据；将架构调整为 Parquet + S3 兼容对象存储 + DuckDB/Polars，并使用 MySQL 管理元数据、任务状态和当前信号。
+- 按资产、频率、年份和日期进行分区，加入增量采集、分区写入、数据校验和对象存储备份；典型研究查询从 1–3 分钟缩短至 5–15 秒，日常更新与备份控制在 10 分钟内。
+- 将 R Markdown 和分散的 Python/R 脚本重构为可配置的 Python–R–SQL 研究流水线，支持多资产训练、推理、滚动验证、回测和可复现实验。
+- 使用 LightGBM、XGBoost、MAVE 和 VAE 开展 7/14/28 天方向预测与特征表示；近期滚动样本外验证中的某一阶段性结果约为 65% 方向准确率，不应解读为普遍适用的表现。
+- 构建标准化的信号交付与模型管理层，通过 API/JSON 接口向下游系统返回预测结果、因子暴露和策略权重。
 
 ## 🔬 项目经历
 
 ### **香港赛马会赔率与投注行为统计建模**
 *项目发起人 | 2025.10 -- 2025.12*  
 *香港城市大学课程项目*  
-- 面向香港赛马会历史赛事数据，完成大规模数据抓取、清洗与探索性分析，构建覆盖赛事结果、赔率与投注类型的结构化分析数据集。  
-- 基于统计推断与假设检验方法，对赛事结果分布与潜在影响因素进行系统分析，验证赛事样本的平衡性与建模可行性。  
-- 基于历史赛事数据，围绕位置与位置Q投注场景构建统计学习模型，完成特征设计、模型训练与结果评估。  
-- 在沙田马场相关样本与小规模验证中取得较高预测命中率，支持后续投注策略分析与模型优化。  
+- 将历史赛事、赔率和投注类型数据整理、清洗为结构化分析数据集。
+- 使用统计推断、假设检验和统计学习方法分析位置与位置 Q 场景。
+- 这是一个小规模的城市大学课程研究项目，结果不应被解读为稳定的投注能力或实盘收益。
 
 ### **宽广吸力范围非饱和土剪切强度试验研究及其预测**
-*核心团队成员 | 国家自然科学基金资助（资助号：42307236，12172187，12072170）*  
+*核心团队成员 | 国家自然科学基金相关项目*
 [📄 论文（岩土力学）](https://doi.org/10.16285/j.rsm.2022.2005)  
 - 参与非饱和土剪切强度试验研究与预测建模，在 **MATLAB** 中实现高精度仿真算法，模型拟合准确率超过 **98%**。  
 - 在 **C** 中重写并优化数据拟合函数，支持超过 200,000 个数据点处理，核心计算效率提升约 **300%**。  
@@ -73,15 +84,13 @@ _LI Junxing_ _Jasen_
 ### **基于时变微分方程动力学的 COVID-19 流行病学建模**
 *MathorCup 2022*  
 - 构建面向 COVID-19 传播过程的 **SIERR-T 动力学模型**，将媒体传播与谣言扩散机制纳入流行病学建模框架。  
-- 基于大规模微博评论数据开展疫情期间情感分析，提取舆情变化特征并用于辅助刻画传播行为与公众反应。  
-- 结合深度学习方法开展谣言识别与传播趋势预测，在实验数据集上取得较高预测准确率。  
-- 结合 [OxCGRT 数据](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) 分析政府干预措施对疫情传播的影响，并提出针对性建模结论与策略建议。  
+- 对微博评论开展疫情期间的情感分析与谣言识别，并使用 [OxCGRT 数据](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) 分析政策影响。
 
 ## 📚 论文与专利
 
-- **[J.1]** NIU Geng, ZHU Xiao-feng, **LI Jun-xing**, LÜ Meng-yuan, AN Li-qi, CHEN Zi-han. (2022). [**Experimental study on shear strength of unsaturated soil over a wide suction range and its prediction**](https://doi.org/10.16285/j.rsm.2022.2005). *Rock and Soil Mechanics*, No. 12, pp. 1-11. DOI: 10.16285/j.rsm.2022.2005. (IF=3.721, EI, CA, JST, CSCD, Peking University Core Journal)  
-- **[P.1]** NIU Geng, **LI Jun-xing**, ZHU Xiao-feng, TAN Yong-ming, MIAO Yu-song, ZHAO Shi-jun, WU Di. (2024). [**Triaxial Apparatus for Unsaturated Soil Based on Dialysis Method Suction Control**](https://patents.google.com/patent/CN117368002A). Chinese Patent, Patent No. CN117368002A. Application No. CN202311298912.7, Application Date: 2023-10-09, Publication Date: 2024-01-09.  
-- **[P.2]** NIU Geng, KONG Liang, ZHU Xiao-feng, **LI Jun-xing**, AN Li-qi, LÜ Meng-yuan, CHEN Zi-han. (2022). [**Direct Shear Apparatus for Unsaturated Soil with Erosion Monitoring and Control System**](https://patents.google.com/patent/CN115452613A). Chinese Patent, Patent No. CN115452613A. Application No. CN202211220042.7, Application Date: 2022-10-08, Publication Date: 2022-12-09.
+- **[J.1]** NIU Geng, ZHU Xiao-feng, **LI Jun-xing**, LÜ Meng-yuan, AN Li-qi, CHEN Zi-han. (2022). [**Experimental study on shear strength of unsaturated soil over a wide suction range and its prediction**](https://doi.org/10.16285/j.rsm.2022.2005). *Rock and Soil Mechanics*, 44(12), 3349–3359. DOI: 10.16285/j.rsm.2022.2005. (IF=3.721, EI, CA, JST, CSCD, Peking University Core Journal)
+- **[P.1]** NIU Geng, **LI Jun-xing**, ZHU Xiao-feng, TAN Yong-ming, MIAO Yu-song, ZHAO Shi-jun, WU Di. (2024). [**Triaxial Apparatus for Unsaturated Soil Based on Dialysis Method Suction Control**](https://patents.google.com/patent/CN117368002A). Chinese Patent, CN117368002A. Application No. CN202311298912.7, Application Date: 2023-10-09, Publication Date: 2024-01-09.
+- **[P.2]** NIU Geng, KONG Liang, ZHU Xiao-feng, **LI Jun-xing**, AN Li-qi, LÜ Meng-yuan, CHEN Zi-han. (2022). [**Direct Shear Apparatus for Unsaturated Soil with Erosion Monitoring and Control System**](https://patents.google.com/patent/CN115452613A). Chinese Patent, publication CN115452613A; grant CN115452613B. Application No. CN202211220042.7, Application Date: 2022-10-08, Publication Date: 2022-12-09.
 
 ## 🏅 荣誉奖项
 
@@ -95,6 +104,9 @@ _LI Junxing_ _Jasen_
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Polars](https://img.shields.io/badge/-Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Parquet](https://img.shields.io/badge/-Apache%20Parquet-50ABF1?style=flat-square&logo=apache&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-FF4B00?style=flat-square&logo=mathworks&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-E38C00?style=flat-square&logo=mysql&logoColor=white)
@@ -112,14 +124,22 @@ _LI Junxing_ _Jasen_
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+### 工具链重点
+
+- **量化研究：** Pandas、NumPy、Polars、DuckDB、LightGBM、XGBoost、MAVE、VAE、时间序列交叉验证、Walk-forward 验证和回测。
+- **数据基础设施：** Apache Parquet、S3 兼容对象存储、MySQL、Redis、JSON/API 交付、分区和增量数据流水线。
+- **研究工程：** PyTorch、Hugging Face Transformers、MMSegmentation、PaddleSeg、MONAI、TorchGeo、nnU-Net、TotalSegmentator。
+- **系统与交付：** Linux/Unix、Git/GitHub、Slurm、Singularity、Docker、GitHub Actions、YAML 配置、CLI 工作流、日志和实验追踪。
+- **AI Agent 工作流：** Claude Code、Codex、Cursor、GitHub Copilot、Dify、MCP，以及面向业务的自动化设计。
+
 ## 🌏 语言能力
 
 - 中文普通话（母语）  
-- 英语（B2，学术与职场沟通）  
+- 英语（IELTS 6.0，学术阅读与专业书面沟通）
 
 ## 🎯 兴趣爱好
 
 🏞 徒步 · 🏋️‍♂️ 健身 · 🏍 摩托车 · 📷 摄影 · 💻 编程  
 
 ---
-*最后更新：2026年4月*
+*最后更新：2026年7月*

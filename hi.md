@@ -9,82 +9,121 @@ _李俊星_ _Jasen_
 
 [العربية](/ar/) · [EN](/) · [Español](/es/) · [فارسی](/fa/) · [Français](/fr/) · **हिन्दी** · [日本語](/ja/) · [한국어](/ko/) · [Русский](/ru/) · [中文](/zh/)
 
-> इस साइट पर आपका स्वागत है! इस पृष्ठ पर मेरे बारे में अधिक जानकारी दी गई है।\
-> व्यक्तिगत ईमेल: lev1s at duck dot com
+> इस साइट पर आपका स्वागत है! इस पृष्ठ पर मेरे बारे में अधिक जानकारी दी गई है।<br>
+> व्यक्तिगत ईमेल: lev1s at foxmail dot com
 
 ## 🙋 परिचय
 
-मुझे अनुसंधान इंजीनियरिंग और सिस्टम डिलीवरी में मजबूत क्षमताएँ हैं, और मैं समस्या परिभाषा से लेकर समाधान डिज़ाइन, प्रयोगात्मक सत्यापन और इंजीनियरिंग डिलीवरी तक के पूरे पाइपलाइन को स्वतंत्र रूप से चला सकता हूँ। स्नातक अध्ययन के दौरान, मैंने गणितीय मॉडलिंग प्रतियोगिताओं और अनुसंधान प्रशिक्षण के माध्यम से ठोस मॉडलिंग, विश्लेषणात्मक और टीमवर्क कौशल विकसित किए। स्नातकोत्तर अध्ययन में, मैंने क्रिप्टोकरेंसी क्वांटिटेटिव रिसर्च और इमेज सेगमेंटेशन पोस्ट-प्रोसेसिंग के क्षेत्रों में अंतर-विषयी अभ्यास किया, जिसमें क्वांटिटेटिव रिसर्च फ्रेमवर्क पुनर्निर्माण, टाइम-सीरीज़ फोरकास्टिंग पाइपलाइन सेटअप, और मुख्यधारा के सेगमेंटेशन वर्कफ़्लो में [RankSEG](https://github.com/rankseg/rankseg) अनुकूलन, प्रयोग पुनरुत्पादन और पर्यावरण पैकेजिंग शामिल है। ओपन-सोर्स सहयोग, तकनीकी दस्तावेज़ीकरण और द्विभाषी संचार से परिचित हूँ, Agent वर्कफ़्लो, स्वचालित टूलचेन और क्लाउड डिप्लॉयमेंट में व्यावहारिक अनुभव है।
+मैं गणित और सांख्यिकी पृष्ठभूमि वाला रिसर्च इंजीनियर हूँ। मेरा काम क्वांटिटेटिव रिसर्च इंजीनियरिंग, वित्तीय डेटा इन्फ्रास्ट्रक्चर, कंप्यूटर-विज़न पोस्ट-प्रोसेसिंग और एंटरप्राइज़ AI-agent डिलीवरी के बीच फैला है। मैं किसी समस्या को परिभाषा और प्रयोगात्मक सत्यापन से लेकर पुनरुत्पादनीय डेटा/मॉडल वर्कफ़्लो, इंजीनियरिंग डिलीवरी और उपयोगकर्ता-केंद्रित दस्तावेज़ीकरण तक ले जा सकता हूँ।
+
+मेरा वर्तमान अभ्यास क्वांटिटेटिव डेटा प्लेटफ़ॉर्म और सिग्नल रिसर्च को RankSEG इमेज-सेगमेंटेशन रिसर्च इंजीनियरिंग तथा व्यावहारिक AI-agent वर्कफ़्लो डिज़ाइन के साथ जोड़ता है। मैं ऐसे सिस्टम बनाना पसंद करता हूँ जो परीक्षणयोग्य, दोहराने योग्य और वास्तविक संचालन-परिस्थितियों में उपयोगी हों।
+
+**वर्तमान फोकस:** क्वांटिटेटिव रिसर्च इंजीनियरिंग, वित्तीय डेटा इन्फ्रास्ट्रक्चर, रिसर्च प्लेटफ़ॉर्म, ट्रेडिंग-डेटा सेवाएँ और AI solutions / agent automation।
+
+## 🌈 रंग संतुलन
+
+```text
+रंग       हिस्सा   बार            अर्थ
+--------  -------  -------------  ------------------------------------------
+काला      40.6%    ████████░░░░   सक्रियता, उपलब्धि और रणनीतिक क्रियान्वयन
+नीला      26.9%    █████░░░░░░░   समझ, दक्षता और विश्लेषणात्मक गहराई
+लाल       14.4%    ███░░░░░░░░░   तीव्रता, स्पष्टवादिता और दबाव-सहनशीलता
+सफेद      12.7%    ███░░░░░░░░░   संरचना, व्यवस्था और स्थिरता
+हरा        5.4%    █░░░░░░░░░░░   जुड़ाव, भावनात्मक समझ और सामंजस्य
+```
+
+मेरा प्रोफ़ाइल मुख्यतः Black-Blue है: विश्लेषण के साथ क्रियान्वयन।
+
+- काला रंग लक्ष्य-प्रेरणा, सक्रियता और काम पूरा करने की प्रवृत्ति में दिखाई देता है।
+- नीला रंग सटीकता, जिज्ञासा और यह समझने की पसंद जोड़ता है कि सिस्टम वास्तव में कैसे काम करते हैं।
+- लाल रंग दबाव में काम करने, सीधे संवाद और तीव्रता के प्रति कुछ झुकाव दिखाता है।
+- सफेद रंग मौजूद है, लेकिन गौण है: मैं संरचना को तभी महत्व देता हूँ जब वह क्रियान्वयन बेहतर बनाए।
+- हरा सबसे कम प्रमुख है; इसलिए मैं भावनात्मक माहौल या सहमति-निर्माण की ओर स्वाभाविक रूप से कम उन्मुख हूँ।
+
+### मुख्य पैटर्न
+
+मैं कठिन समस्या, वास्तविक बाधा और स्पष्ट रूप से सोचने के लिए पर्याप्त स्थान वाले वातावरण में अपना सर्वश्रेष्ठ काम करता हूँ। मुझे ऐसे परिवेश पसंद हैं जहाँ कठोरता मायने रखती है, जटिलता से बचा नहीं जाता और परिणामों को इस आधार पर परखा जा सकता है कि वे व्यवहार में टिकते हैं या नहीं। मैं ऐसे तरीकों पर भरोसा करता हूँ जिन्हें जाँचा और दोहराया जा सके तथा जो वास्तविकता पर आधारित हों। किसी सिस्टम का प्रभावी होना मेरे लिए उसका आकर्षक वर्णन होने से अधिक महत्वपूर्ण है।
+
+टीम में मैं अक्सर समस्या-समाधान, संरचना और क्रियान्वयन के माध्यम से योगदान देता हूँ। हो सकता है कि मैं हमेशा गर्मजोशी या दृश्यता से शुरुआत न करूँ, लेकिन अस्पष्टता कम करके और कठिन काम को अंत तक पहुँचाकर अपनी परवाह दिखाता हूँ।
+
+### संदर्भ
+
+- SoulTrace Result: <https://soultrace.app/en/results/48093f7c-7980-4f83-97a2-e5b8df3a103f>
 
 ## 🎓 शिक्षा
 
-- **सिटी यूनिवर्सिटी ऑफ हॉन्गकॉन्ग** *(सितंबर 2025 – अक्टूबर 2026)*  
-  *बायोस्टैटिस्टिक्स में मास्टर ऑफ साइंस*  
+- **सिटी यूनिवर्सिटी ऑफ हॉन्गकॉन्ग** *(सितंबर 2025 – अक्टूबर 2026)*
+  *सांख्यिकी में मास्टर ऑफ साइंस*
 
-- **चिंगदाओ यूनिवर्सिटी ऑफ टेक्नोलॉजी** *(सितंबर 2020 – जून 2024)*  
-  *गणित एवं अनुप्रयुक्त गणित में बैचलर ऑफ साइंस*  
-
+- **चिंगदाओ यूनिवर्सिटी ऑफ टेक्नोलॉजी** *(सितंबर 2020 – जून 2024)*
+  *गणित एवं अनुप्रयुक्त गणित में बैचलर ऑफ साइंस*
 
 ## 💼 इंटर्नशिप और अनुसंधान अनुभव
 
-### **चाइनीज़ यूनिवर्सिटी ऑफ हॉन्गकॉन्ग (CUHK)**
-*अंशकालिक अनुसंधान सहायक | फरवरी 2026 – वर्तमान*  
-- Supervised by [Prof. Ben Dai](https://www.bendai.org/).
-- [RankSEG](https://github.com/rankseg/rankseg) इमेज सेगमेंटेशन पोस्ट-प्रोसेसिंग एल्गोरिदम के अनुसंधान इंजीनियरिंग और तैनाती को आगे बढ़ाया, सोर्स कोड पठन और प्रयोग पुनरुत्पादन, मुख्यधारा सेगमेंटेशन फ्रेमवर्क अनुकूलन, इन्फरेंस पोस्ट-प्रोसेसिंग एकीकरण, मूल्यांकन स्क्रिप्ट विकास से लेकर क्लस्टर पर्यावरण पैकेजिंग तक का पूरा पाइपलाइन संभाला।  
-- मुख्यधारा सेमांटिक सेगमेंटेशन वर्कफ़्लो में [RankSEG](https://github.com/rankseg/rankseg) एकीकरण और विस्तार को आगे बढ़ाया; mmsegmentation और PaddleSeg फ्रेमवर्क अनुकूलन में भाग लिया, और Transformers फोर्क में एक पोस्ट-प्रोसेसिंग हेल्पर डिज़ाइन किया जिससे मॉडल आउटपुट प्रोबैबिलिटी टेंसर को Dice/IoU-निर्देशित पोस्ट-प्रोसेसिंग में सीधे फीड किया जा सके।  
-- इन्फरेंस पोस्ट-प्रोसेसिंग और मूल्यांकन पाइपलाइन पुनर्निर्माण में भाग लिया, Dice/IoU मेट्रिक्स के आसपास प्रेडिक्शन वर्कफ़्लो को अनुकूलित किया, लॉगिंग, मूल्यांकन स्क्रिप्ट और परिणाम ट्रैकिंग को जोड़कर प्रयोगात्मक तुलनात्मकता, डीबगिंग दक्षता और पुनरुत्पादन स्थिरता में सुधार किया।  
-- CUHK HPC क्लस्टर पर Singularity + Slurm का उपयोग करके पुनरुत्पादनीय प्रयोग स्थापित किए, इमेज पैकेजिंग, डिपेंडेंसी प्रबंधन, जॉब टेम्पलेट सबमिशन और मल्टी-GPU पर्यावरण अनुकूलन पूर्ण किया, बिखरे हुए प्रयोग कमांड को एकीकृत टेम्पलेट में समेकित किया जो A100, V100 और RTX Pro 6000 पर बैच प्रयोगों का समर्थन करता है।  
-- कम्युनिटी उपयोगकर्ताओं और संभावित सहयोगकर्ताओं के लिए प्रोजेक्ट डिलीवरी पाइपलाइन को क्विकस्टार्ट गाइड, एकीकरण ट्यूटोरियल, README, इंटरैक्टिव डेमो और प्लेग्राउंड जोड़कर बेहतर बनाया, क्लाउड डेमोंस्ट्रेशन और CI/CD पाइपलाइन विकास को आगे बढ़ाया।
+### **Sika China**
+*AI Agent इंटर्न | अप्रैल 2026 – जुलाई 2026*
 
-### **ज़ेजियांग मिंगसे एसेट मैनेजमेंट कं., लिमिटेड**
-*क्वांटिटेटिव आर्किटेक्चर इंटर्न (CityUHK Bios Coop) | सितंबर 2025 – अप्रैल 2026*  
-*क्रिप्टोकरेंसी क्वांटिटेटिव ट्रेडिंग और स्ट्रेटेजी विकास*  
-- BTC, ETH और शीर्ष 40 तरलता वाले क्रिप्टोएसेट के लिए दैनिक-आवृत्ति ट्रेडिंग हेतु सिग्नल अनुसंधान और फ्रेमवर्क विकास किया, ऑन-चेन डेटा क्लीनिंग, फीचर कंस्ट्रक्शन, फैक्टर प्रीप्रोसेसिंग, प्रेडिक्टिव मॉडलिंग, टाइम-सीरीज़ बैकटेस्टिंग से सिग्नल जनरेशन तक पूर्ण R&D पाइपलाइन की जिम्मेदारी संभाली।  
-- Random Forest और XGBoost सहित ट्री मॉडल का उपयोग करके सक्रिय फैक्टर माइनिंग और सिग्नल एन्हांसमेंट किया, स्थिरता परीक्षण, सहसंबंध परीक्षण और फैक्टर वर्गीकरण प्रीप्रोसेसिंग रणनीतियों के माध्यम से इनपुट फीचर गुणवत्ता में सुधार किया।  
-- प्रारंभिक R Markdown-आधारित प्रयोगात्मक स्क्रिप्ट को मॉड्यूलर Python-R-SQL अनुसंधान फ्रेमवर्क में पुनर्निर्माण का नेतृत्व किया, कोड डायरेक्टरी, मॉड्यूल सीमाएँ, फंक्शन इंटरफेस, वेरिएबल नामकरण, डेटा संरचनाएँ और YAML कॉन्फ़िगरेशन मेकेनिज्म को शुरू से डिज़ाइन किया।  
-- वित्तीय टाइम सीरीज़ में उच्च शोर और उच्च सहरैखिकता को संबोधित करने के लिए MAVE और ऑटोएनकोडर विधियों को फीचर डायमेंशनलिटी रिडक्शन और रिप्रेजेंटेशन लर्निंग के लिए लागू किया, सूचना रिसाव जोखिम को नियंत्रित करने के लिए सख्त टाइम-सीरीज़ क्रॉस-वैलिडेशन और हाइपरपैरामीटर सर्च के साथ संयुक्त किया।  
-- 8 वर्षों के ऐतिहासिक डेटा और 1 वर्ष के रोलिंग बैकटेस्ट विंडो का उपयोग करके 7/14/28-दिन की बहु-अवधि दिशात्मक भविष्यवाणी सत्यापन किया, log return के चिह्न को मुख्य दिशात्मक लेबल के रूप में उपयोग करके दोहरे वर्गीकरण और सतत भविष्यवाणी मूल्यांकन पथ बनाए, लगभग **65%** दिशात्मक सटीकता प्राप्त की।  
-- अनुसंधान से उत्पादन तक सिग्नल डिलीवरी पाइपलाइन स्थापित किया, बहु-परिसंपत्ति समानांतर प्रशिक्षण, भविष्यवाणी और बैकटेस्टिंग का समर्थन करते हुए, एकीकृत YAML कॉन्फ़िगरेशन द्वारा संचालित, परिणाम JSON/API के माध्यम से लौटाए और SQL डेटाबेस में संग्रहीत।
+- दोहराव वाले और अनुभव-निर्भर वर्कफ़्लो के लिए AI product support, internal solutions, data automation और business operations पर काम किया।
+- अस्पष्ट व्यावसायिक आवश्यकताओं को संरचित इनपुट, नियम, agent/skill डिज़ाइन, MVP, feedback loop और acceptance criteria में बदला।
+- आंतरिक agent rollout, user enablement, training, SOP documentation और पुन: उपयोग योग्य workflow assets में सहयोग किया, साथ ही व्यावसायिक जानकारी को उचित सीमाओं में रखा।
+- data processing, knowledge retrieval, reporting और presentation workflows के लिए व्यावहारिक automations बनाए और अनुकूलित किए, जिनमें दृश्य गुणवत्ता, संपादन-योग्यता और पुन: उपयोग के बीच संतुलन रखा।
+
+### **चाइनीज़ यूनिवर्सिटी ऑफ हॉन्गकॉन्ग (CUHK)**
+*अंशकालिक अनुसंधान सहायक | फरवरी 2026 – वर्तमान*
+
+- [RankSEG](https://github.com/rankseg/rankseg) इमेज-सेगमेंटेशन पोस्ट-प्रोसेसिंग एल्गोरिदम की research engineering और deployment को आगे बढ़ाया: source-code reading, experiment reproduction, framework adaptation, inference integration, evaluation और cluster-environment packaging।
+- mmsegmentation, PaddleSeg, Hugging Face Transformers और SAM-family adaptation paths सहित semantic-segmentation workflows में RankSEG integration को आगे बढ़ाया। ऐसे interfaces बनाए जिनमें model score tensors को retraining के बिना Dice/IoU-oriented post-processing में उपयोग किया जा सके।
+- प्रयोगों की तुलना, debugging efficiency और reproduction stability सुधारने के लिए reproducible evaluation, logging और result-tracking workflows बनाए।
+- CUHK HPC पर Singularity + Slurm environments पैकेज किए और multi-GPU experiments के लिए reusable job templates तैयार किए।
+- RankSEG ecosystem में सार्वजनिक रूप से merged [Transformers PR #19](https://github.com/rankseg/rankseg/pull/19), [SAM integration PR #20](https://github.com/rankseg/rankseg/pull/20), [integration documentation PR #22](https://github.com/rankseg/rankseg/pull/22) और [MONAI PR #2](https://github.com/rankseg/MONAI/pull/2) में योगदान दिया।
+
+### **Zhejiang Mingce Asset Management Co., Ltd.**
+*क्वांटिटेटिव आर्किटेक्चर इंटर्न | सितंबर 2025 – अप्रैल 2026*
+*क्वांटिटेटिव रिसर्च इंजीनियरिंग और डिजिटल-एसेट डेटा इन्फ्रास्ट्रक्चर*
+
+- लगभग 8 वर्षों के इतिहास और liquidity Top 40 digital assets को कवर करने वाला quantitative research data platform बनाया, जिसमें minute-level और daily OHLCV data, on-chain indicators और derived factors शामिल थे।
+- लगभग 170 million minute-level market records, 3,000 candidate features और करीब 20 GB Parquet data प्रबंधित किया। Architecture को Parquet + S3-compatible object storage + DuckDB/Polars की ओर पुनर्गठित किया और metadata, task state तथा current signals के लिए MySQL रखा।
+- Data को asset, frequency, year और date के अनुसार partition किया; incremental collection, partition writes, validation और object-storage backups जोड़े। Typical research queries 1–3 मिनट से घटकर 5–15 सेकंड हुईं और daily updates तथा backups 10 मिनट के भीतर रखे गए।
+- R Markdown और बिखरी हुई Python/R scripts को configurable Python–R–SQL research pipeline में refactor किया, जो multi-asset training, inference, rolling validation, backtesting और reproducible experiments का समर्थन करती है।
+- 7/14/28-दिन की directional prediction और feature representation के लिए LightGBM, XGBoost, MAVE और VAE का उपयोग किया। हाल के rolling out-of-sample validation में एक stage-specific result के रूप में लगभग 65% directional accuracy मिली; इसे universal performance claim नहीं माना जाना चाहिए।
+- Standardized signal delivery और model-management layers बनाए, जो downstream systems के लिए predictions, factor exposures और strategy weights को API/JSON interfaces के माध्यम से लौटाते हैं।
 
 ## 🔬 परियोजना अनुभव
 
 ### **हॉन्गकॉन्ग जॉकी क्लब ऑड्स और बेटिंग व्यवहार सांख्यिकीय मॉडलिंग**
-*परियोजना प्रवर्तक | अक्टूबर 2025 – दिसंबर 2025*  
-*CityU पाठ्यक्रम परियोजना*  
-- HKJC के ऐतिहासिक रेस डेटा का बड़े पैमाने पर डेटा स्क्रेपिंग, सफाई और खोजपूर्ण विश्लेषण किया, रेस परिणाम, ऑड्स और बेटिंग प्रकारों को कवर करने वाला संरचित विश्लेषणात्मक डेटासेट तैयार किया।  
-- रेस परिणाम वितरण और संभावित प्रभावशाली कारकों का व्यवस्थित विश्लेषण करने के लिए सांख्यिकीय अनुमान और परिकल्पना परीक्षण लागू किया, नमूना संतुलन और मॉडलिंग व्यवहार्यता सत्यापित की।  
-- ऐतिहासिक रेस डेटा का उपयोग करके **प्लेस** और **प्लेस Q** बेटिंग परिदृश्यों के लिए सांख्यिकीय शिक्षण मॉडल बनाए, फीचर इंजीनियरिंग, मॉडल प्रशिक्षण और परिणाम मूल्यांकन पूर्ण किया।  
-- शातिन रेसकोर्स नमूनों और छोटे पैमाने के सत्यापन में उच्च भविष्यवाणी सटीकता प्राप्त की, बाद के बेटिंग रणनीति विश्लेषण और मॉडल अनुकूलन का समर्थन किया।  
+*परियोजना प्रवर्तक | अक्टूबर 2025 – दिसंबर 2025*
+*CityU पाठ्यक्रम परियोजना*
+
+- ऐतिहासिक race, odds और betting-type data एकत्र कर साफ़ किया और structured analysis dataset बनाया।
+- place और place-Q scenarios पर statistical inference, hypothesis testing और statistical learning लागू किया।
+- यह छोटे पैमाने की course research project थी; परिणामों को स्थिर betting ability या live trading returns के रूप में नहीं समझना चाहिए।
 
 ### **असंतृप्त मिट्टी की कतरनी शक्ति पर प्रायोगिक अध्ययन**
-*मुख्य टीम सदस्य | चीन राष्ट्रीय प्राकृतिक विज्ञान फाउंडेशन अनुदान*  
-[📄 शोध पत्र (Rock and Soil Mechanics)](https://doi.org/10.16285/j.rsm.2022.2005)  
-*Grant No.: 42307236, 12172187, 12072170*  
-- उच्च-सटीकता **MATLAB मॉडल** विकसित किए (सटीकता > **98%**)  
-- 2 लाख+ डेटा पॉइंट्स के लिए **C कोड** अनुकूलित → **3× गति वृद्धि**  
-- **Python / Origin** में विज़ुअलाइज़ेशन तैयार किए  
-- **दो राष्ट्रीय पेटेंट** का सह-लेखन  
+*मुख्य टीम सदस्य | चीन राष्ट्रीय प्राकृतिक विज्ञान फाउंडेशन से संबंधित परियोजना*
+[📄 शोध पत्र (Rock and Soil Mechanics)](https://doi.org/10.16285/j.rsm.2022.2005)
+
+- **MATLAB** में simulation और fitting algorithms लागू किए, जिनकी model-fit accuracy **98%** से अधिक थी।
+- Core fitting functions को **C** में दोबारा लिखा, 200k+ data points का समर्थन किया और computational efficiency में लगभग **300%** सुधार किया।
+- Analysis और visualization के लिए **Python / Origin** का उपयोग किया तथा equipment-related दो patent outcomes में योगदान दिया।
 
 ### **मल्टी-रूल फ्रैक्टल निर्माण पर अध्ययन**
-*स्नातक थीसिस*  
-- **Taichi** का उपयोग करके GPU-त्वरित फ्रैक्टल मॉडल बनाया, **100× गति वृद्धि** हासिल की  
-- रियल-टाइम फ्रैक्टल रेंडरिंग और इंटरेक्शन लागू किया  
-- मौजूदा फ्रैक्टल निर्माण प्रणालियों में सुधार की पहचान की  
+*उत्कृष्ट स्नातक थीसिस*
+
+- Complex dynamical systems से संचालित multi-rule fractal-generation model बनाया।
+- **Taichi / Python** से GPU acceleration का उपयोग कर मूल implementation की तुलना में लगभग **100×** सुधार प्राप्त किया।
+- Real-time rendering और interactive visualization लागू किया।
 
 ### **COVID-19 का महामारी विज्ञान मॉडलिंग**
-*MathorCup 2022*  
-- **मीडिया और अफवाह गतिकी** को एकीकृत करने वाला **$SIERR-T$ मॉडल** प्रस्तावित किया  
-- **50 लाख वीबो टिप्पणियों** पर **NLP भावना विश्लेषण**  
-- डीप लर्निंग विधियों के साथ अफवाह पहचान और प्रसार-रुझान पूर्वानुमान किया, तथा प्रायोगिक डेटासेट पर अच्छा भविष्यवाणी प्रदर्शन प्राप्त किया।  
-- [OxCGRT डेटा](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) का उपयोग करके नीति प्रभावों का विश्लेषण  
+*गणितीय मॉडलिंग प्रतियोगिता परियोजना | मार्च 2022*
 
+- Media और rumor dynamics को शामिल करने वाला **SIERR-T** model बनाया।
+- Weibo comments पर sentiment analysis और rumor identification किया तथा [OxCGRT data](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) से policy effects का विश्लेषण किया।
 
 ## 📚 प्रकाशन और पेटेंट
 
-- **[J.1]** NIU Geng, ZHU Xiao-feng, **LI Jun-xing**, LÜ Meng-yuan, AN Li-qi, CHEN Zi-han. (2022). [**Experimental study on shear strength of unsaturated soil over a wide suction range and its prediction**](https://doi.org/10.16285/j.rsm.2022.2005). *Rock and Soil Mechanics*, No. 12, pp. 1-11. DOI: 10.16285/j.rsm.2022.2005. (IF=3.721, EI, CA, JST, CSCD, Peking University Core Journal)  
-- **[P.1]** NIU Geng, **LI Jun-xing**, ZHU Xiao-feng, TAN Yong-ming, MIAO Yu-song, ZHAO Shi-jun, WU Di. (2024). [**Triaxial Apparatus for Unsaturated Soil Based on Dialysis Method Suction Control**](https://patents.google.com/patent/CN117368002A). Chinese Patent, Patent No. CN117368002A. Application No. CN202311298912.7, Application Date: 2023-10-09, Publication Date: 2024-01-09.  
-- **[P.2]** NIU Geng, KONG Liang, ZHU Xiao-feng, **LI Jun-xing**, AN Li-qi, LÜ Meng-yuan, CHEN Zi-han. (2022). [**Direct Shear Apparatus for Unsaturated Soil with Erosion Monitoring and Control System**](https://patents.google.com/patent/CN115452613A). Chinese Patent, Patent No. CN115452613A. Application No. CN202211220042.7, Application Date: 2022-10-08, Publication Date: 2022-12-09.
-
+- **[J.1]** NIU Geng, ZHU Xiao-feng, **LI Jun-xing**, LÜ Meng-yuan, AN Li-qi, CHEN Zi-han. (2022). [**Experimental study on shear strength of unsaturated soil over a wide suction range and its prediction**](https://doi.org/10.16285/j.rsm.2022.2005). *Rock and Soil Mechanics*, 44(12), 3349–3359. DOI: 10.16285/j.rsm.2022.2005. (IF=3.721, EI, CA, JST, CSCD, Peking University Core Journal)
+- **[P.1]** NIU Geng, **LI Jun-xing**, ZHU Xiao-feng, TAN Yong-ming, MIAO Yu-song, ZHAO Shi-jun, WU Di. (2024). [**Triaxial Apparatus for Unsaturated Soil Based on Dialysis Method Suction Control**](https://patents.google.com/patent/CN117368002A). Chinese Patent, CN117368002A. Application No. CN202311298912.7, Application Date: 2023-10-09, Publication Date: 2024-01-09.
+- **[P.2]** NIU Geng, KONG Liang, ZHU Xiao-feng, **LI Jun-xing**, AN Li-qi, LÜ Meng-yuan, CHEN Zi-han. (2022). [**Direct Shear Apparatus for Unsaturated Soil with Erosion Monitoring and Control System**](https://patents.google.com/patent/CN115452613A). Chinese Patent, publication CN115452613A; grant CN115452613B. Application No. CN202211220042.7, Application Date: 2022-10-08, Publication Date: 2022-12-09.
 
 ## 🏅 सम्मान और पुरस्कार
 
@@ -98,15 +137,17 @@ _李俊星_ _Jasen_
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-FF4B00?style=flat-square&logo=mathworks&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-E38C00?style=flat-square&logo=mysql&logoColor=white)
+![Polars](https://img.shields.io/badge/-Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Parquet](https://img.shields.io/badge/-Apache%20Parquet-50ABF1?style=flat-square&logo=apache&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-FF4B00?style=flat-square&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2EA043?style=flat-square&logo=githubactions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -115,17 +156,22 @@ _李俊星_ _Jasen_
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+### 工具链重点
 
+- **量化研究：** Pandas、NumPy、Polars、DuckDB、LightGBM、XGBoost、MAVE、VAE、time-series cross-validation、walk-forward validation、backtesting。
+- **数据基础设施：** Apache Parquet、S3-compatible object storage、MySQL、Redis、JSON/API delivery，以及 partitioned 和 incremental data pipelines。
+- **研究工程：** PyTorch、Hugging Face Transformers、MMSegmentation、PaddleSeg、MONAI、TorchGeo、nnU-Net、TotalSegmentator。
+- **系统与交付：** Linux/Unix、Git/GitHub、Slurm、Singularity、Docker、GitHub Actions、YAML configuration、CLI workflows、logging 和 experiment tracking。
+- **AI-agent 工作流：** Claude Code、Codex、Cursor、GitHub Copilot、Dify、MCP，以及面向业务的 automation design。
 
 ## 🌏 भाषाएँ
 
-- मंदारिन चीनी *(मातृभाषा)*  
-- अंग्रेज़ी *(B2 – शैक्षणिक और व्यावसायिक संचार)*  
-
+- मंदारिन चीनी *(मातृभाषा)*
+- अंग्रेज़ी *(IELTS 6.0; शैक्षणिक पठन और पेशेवर लिखित संचार)*
 
 ## 🎯 रुचियाँ
 
-🏞 ट्रेकिंग · 🏋️‍♂️ फिटनेस · 🏍 मोटरसाइकिल · 📷 फोटोग्राफी · 💻 कोडिंग  
+🏞 ट्रेकिंग · 🏋️‍♂️ फिटनेस · 🏍 मोटरसाइकिल · 📷 फोटोग्राफी · 💻 कोडिंग
 
 ---
-*अंतिम अद्यतन: अप्रैल 2026*
+*अंतिम अद्यतन: जुलाई 2026*
