@@ -156,7 +156,7 @@ In teams, this often means I contribute through problem-solving, structure, and 
 ## 🌏 Languages
 
 - Mandarin Chinese *(Native)*
-- English *(IELTS 6.0; academic reading and professional written communication)*
+- English *(B2)*
 
 ## 🎯 Interests
 

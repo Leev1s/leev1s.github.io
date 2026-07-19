@@ -161,7 +161,7 @@ Dans une équipe, je contribue souvent par la résolution de problèmes, la stru
 ## 🌏 Langues
 
 - Mandarin *(Langue maternelle)*
-- Anglais *(IELTS 6.0 ; lecture académique et communication professionnelle écrite)*
+- Anglais *(B2)*
 
 ## 🎯 Centres d'Intérêt
 

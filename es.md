@@ -161,7 +161,7 @@ En los equipos, suelo contribuir resolviendo problemas, aportando estructura y e
 ## 🌏 Idiomas
 
 - Mandarín *(Nativo)*
-- Inglés *(IELTS 6.0; lectura académica y comunicación profesional escrita)*
+- Inglés *(B2)*
 
 ## 🎯 Intereses
 
