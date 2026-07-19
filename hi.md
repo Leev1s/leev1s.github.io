@@ -10,7 +10,6 @@ _李俊星_ _Jasen_
 [العربية](/ar/) · [EN](/) · [Español](/es/) · [فارسی](/fa/) · [Français](/fr/) · **हिन्दी** · [日本語](/ja/) · [한국어](/ko/) · [Русский](/ru/) · [中文](/zh/)
 
 > इस साइट पर आपका स्वागत है! इस पृष्ठ पर मेरे बारे में अधिक जानकारी दी गई है।<br>
-> व्यक्तिगत ईमेल: lev1s at foxmail dot com
 
 ## 🙋 परिचय
 
@@ -94,30 +93,27 @@ _李俊星_ _Jasen_
 *परियोजना प्रवर्तक | अक्टूबर 2025 – दिसंबर 2025*
 *CityU पाठ्यक्रम परियोजना*
 
-- ऐतिहासिक race, odds और betting-type data एकत्र कर साफ़ किया और structured analysis dataset बनाया।
-- place और place-Q scenarios पर statistical inference, hypothesis testing और statistical learning लागू किया।
-- यह छोटे पैमाने की course research project थी; परिणामों को स्थिर betting ability या live trading returns के रूप में नहीं समझना चाहिए।
+- ऐतिहासिक race, odds और betting-type data एकत्र कर साफ़ किया तथा place और place-Q scenarios पर statistical inference और learning लागू किया।
+- यह छोटे पैमाने की CityU course research project थी; परिणामों को स्थिर betting ability या live trading returns के रूप में नहीं समझना चाहिए।
 
 ### **असंतृप्त मिट्टी की कतरनी शक्ति पर प्रायोगिक अध्ययन**
 *मुख्य टीम सदस्य | चीन राष्ट्रीय प्राकृतिक विज्ञान फाउंडेशन से संबंधित परियोजना*
 [📄 शोध पत्र (Rock and Soil Mechanics)](https://doi.org/10.16285/j.rsm.2022.2005)
 
-- **MATLAB** में simulation और fitting algorithms लागू किए, जिनकी model-fit accuracy **98%** से अधिक थी।
-- Core fitting functions को **C** में दोबारा लिखा, 200k+ data points का समर्थन किया और computational efficiency में लगभग **300%** सुधार किया।
+- **MATLAB** में fitting algorithms लागू किए, जिनकी model-fit accuracy **98%** से अधिक थी, और core functions को **C** में दोबारा लिखकर 200k+ data points तथा लगभग **300%** efficiency improvement समर्थित किया।
 - Analysis और visualization के लिए **Python / Origin** का उपयोग किया तथा equipment-related दो patent outcomes में योगदान दिया।
 
 ### **मल्टी-रूल फ्रैक्टल निर्माण पर अध्ययन**
 *उत्कृष्ट स्नातक थीसिस*
 
-- Complex dynamical systems से संचालित multi-rule fractal-generation model बनाया।
+- Complex dynamical systems से संचालित multi-rule fractal-generation model बनाया और real-time interactive visualization लागू किया।
 - **Taichi / Python** से GPU acceleration का उपयोग कर मूल implementation की तुलना में लगभग **100×** सुधार प्राप्त किया।
-- Real-time rendering और interactive visualization लागू किया।
 
 ### **COVID-19 का महामारी विज्ञान मॉडलिंग**
 *गणितीय मॉडलिंग प्रतियोगिता परियोजना | मार्च 2022*
 
-- Media और rumor dynamics को शामिल करने वाला **SIERR-T** model बनाया।
-- Weibo comments पर sentiment analysis और rumor identification किया तथा [OxCGRT data](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) से policy effects का विश्लेषण किया।
+- Media और rumor dynamics को शामिल करने वाला **SIERR-T** model बनाया तथा Weibo comments पर sentiment analysis और rumor identification किया।
+- [OxCGRT data](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) से policy effects का विश्लेषण किया।
 
 ## 📚 प्रकाशन और पेटेंट
 

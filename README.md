@@ -5,7 +5,6 @@ _李俊星_ _Jasen_
 [العربية](/ar/) · **EN** · [Español](/es/) · [فارسی](/fa/) · [Français](/fr/) · [हिन्दी](/hi/) · [日本語](/ja/) · [한국어](/ko/) · [Русский](/ru/) · [中文](/zh/)
 
 > Welcome to this site! This page contains more details about me.<br>
-> Personal email: lev1s at foxmail dot com
 
 ## 🙋 Profile
 
@@ -60,30 +59,30 @@ In teams, this often means I contribute through problem-solving, structure, and 
 ### **Sika China**
 *AI Agent Intern | Apr 2026 – Jul 2026*
 
-- Worked across AI product support, internal solutions, data automation, and business operations for repetitive, experience-dependent workflows.
-- Turned loosely defined business needs into structured inputs, rules, agent/skill designs, MVPs, feedback loops, and acceptance criteria.
-- Supported internal agent rollout, user enablement, training, SOP documentation, and reusable workflow assets while keeping business information within appropriate boundaries.
-- Built and adapted practical automations for data processing, knowledge retrieval, reporting, and presentation workflows, balancing visual quality, editability, and reuse.
+- **Requirements decomposition and delivery:** Worked across AI product support, internal solutions, data automation, and business operations for repetitive, experience-dependent workflows.
+- **Agent/skill design:** Turned loosely defined business needs into structured inputs, rules, MVPs, feedback loops, and acceptance criteria.
+- **Internal rollout:** Supported agent enablement, user training, SOP documentation, and reusable workflow assets while keeping business information within appropriate boundaries.
+- **Business automation:** Built and adapted practical automations for data processing, knowledge retrieval, reporting, and presentation workflows, balancing visual quality, editability, and reuse.
 
 ### **The Chinese University of Hong Kong (CUHK)**
 *Part-time Research Assistant | Feb 2026 – Present*
 
-- Drove research engineering and deployment of the [RankSEG](https://github.com/rankseg/rankseg) image-segmentation post-processing algorithm, covering source-code reading, experiment reproduction, framework adaptation, inference integration, evaluation, and cluster-environment packaging.
-- Advanced RankSEG integration across semantic-segmentation workflows, including mmsegmentation, PaddleSeg, Hugging Face Transformers, and SAM-family adaptation paths. Designed interfaces that allow model score tensors to be used by Dice/IoU-oriented post-processing without retraining.
-- Built reproducible evaluation, logging, and result-tracking workflows to improve experimental comparability, debugging efficiency, and reproduction stability.
-- Packaged Singularity + Slurm environments on CUHK HPC and prepared reusable job templates for multi-GPU experiments.
-- Contributed publicly to the RankSEG ecosystem through merged [Transformers PR #19](https://github.com/rankseg/rankseg/pull/19), [SAM integration PR #20](https://github.com/rankseg/rankseg/pull/20), and [integration documentation PR #22](https://github.com/rankseg/rankseg/pull/22), as well as [MONAI PR #2](https://github.com/rankseg/MONAI/pull/2).
+- **Research engineering:** Drove research engineering and deployment of the [RankSEG](https://github.com/rankseg/rankseg) image-segmentation post-processing algorithm, covering reproduction, framework adaptation, inference integration, evaluation, and cluster packaging.
+- **Framework integration:** Advanced RankSEG across mmsegmentation, PaddleSeg, Hugging Face Transformers, and SAM-family paths; designed interfaces for Dice/IoU-oriented post-processing without retraining.
+- **Reproducible evaluation:** Built evaluation, logging, and result-tracking workflows to improve comparability, debugging, and reproduction stability.
+- **HPC packaging:** Packaged Singularity + Slurm environments on CUHK HPC and prepared reusable multi-GPU job templates.
+- **Open-source collaboration:** Contributed through merged [Transformers PR #19](https://github.com/rankseg/rankseg/pull/19), [SAM integration PR #20](https://github.com/rankseg/rankseg/pull/20), [integration documentation PR #22](https://github.com/rankseg/rankseg/pull/22), and [MONAI PR #2](https://github.com/rankseg/MONAI/pull/2).
 
 ### **Zhejiang Mingce Asset Management Co., Ltd.**
 *Quantitative Architecture Intern | Sep 2025 – Apr 2026*
 *Quantitative research engineering and digital-asset data infrastructure*
 
-- Built a quantitative research data platform covering about 8 years of history and the liquidity Top 40 digital assets, integrating minute-level and daily OHLCV data, on-chain indicators, and derived factors.
-- Managed roughly 170 million minute-level market records, 3,000 candidate features, and about 20 GB of Parquet data. Reworked the architecture toward Parquet + S3-compatible object storage + DuckDB/Polars, with MySQL for metadata, task state, and current signals.
-- Partitioned data by asset, frequency, year, and date; added incremental collection, partition writes, validation, and object-storage backups. Typical research queries fell from 1–3 minutes to 5–15 seconds, while daily updates and backups were kept within 10 minutes.
-- Refactored R Markdown and scattered Python/R scripts into a configurable Python–R–SQL research pipeline for multi-asset training, inference, rolling validation, backtesting, and reproducible experiments.
-- Used LightGBM, XGBoost, MAVE, and VAE for 7/14/28-day directional prediction and feature representation. Recent rolling out-of-sample validation reached about 65% directional accuracy in a stage-specific result; this is not a universal performance claim.
-- Built standardized signal delivery and model-management layers that returned predictions, factor exposures, and strategy weights through API/JSON interfaces for downstream systems.
+- **Data platform:** Built a quantitative research platform covering about 8 years of history and the liquidity Top 40 digital assets, integrating OHLCV data, on-chain indicators, and derived factors.
+- **Columnar architecture:** Managed roughly 170 million minute-level records, 3,000 candidate features, and about 20 GB of Parquet data; reworked storage around Parquet, S3-compatible object storage, DuckDB/Polars, and MySQL metadata.
+- **Query and refresh optimization:** Added partitioning, incremental collection, validation, and backups, reducing typical research queries from 1–3 minutes to 5–15 seconds and keeping daily updates within 10 minutes.
+- **Research pipeline:** Refactored scattered Python/R work into a configurable Python–R–SQL pipeline for multi-asset training, inference, rolling validation, backtesting, and reproducible experiments.
+- **Model validation:** Used LightGBM, XGBoost, MAVE, and VAE for 7/14/28-day prediction and feature representation; a stage-specific rolling out-of-sample result reached about 65% directional accuracy, not a universal performance claim.
+- **Signal delivery:** Built standardized model-management and API/JSON layers for predictions, factor exposures, and strategy weights.
 
 ## 🔬 Project Experience
 
@@ -91,30 +90,27 @@ In teams, this often means I contribute through problem-solving, structure, and 
 *Project Initiator | Oct 2025 – Dec 2025*  
 *CityU course project*
 
-- Collected and cleaned historical race, odds, and betting-type data into a structured analysis dataset.
-- Applied statistical inference, hypothesis testing, and statistical learning to place and place-Q scenarios.
-- This was a small-scale course research project; results should not be interpreted as stable betting ability or live trading returns.
+- Collected and cleaned historical race, odds, and betting-type data, then applied statistical inference and learning to place and place-Q scenarios.
+- This was a small-scale CityU course project; results should not be interpreted as stable betting ability or live trading returns.
 
 ### **Experimental Study on Shear Strength of Unsaturated Soil over a Wide Suction Range and Its Prediction**
 *Core Team Member | National Natural Science Foundation of China related project*
 [📄 Journal Paper (Rock and Soil Mechanics)](https://doi.org/10.16285/j.rsm.2022.2005)
 
-- Implemented simulation and fitting algorithms in **MATLAB**, with model-fit accuracy above **98%**.
-- Rewrote core fitting functions in **C**, supporting 200k+ data points and improving computational efficiency by about **300%**.
+- Implemented high-accuracy fitting in **MATLAB** (above **98%**) and rewrote core functions in **C**, supporting 200k+ data points with about **300%** higher computational efficiency.
 - Used **Python / Origin** for analysis and visualization, and contributed to two equipment-related patent outcomes.
 
 ### **Study on the Generation of Multi-rule Fractals**
 *Outstanding Graduation Thesis*
 
-- Built a multi-rule fractal-generation model driven by complex dynamical systems.
+- Built a complex-dynamical-system-driven multi-rule fractal model and implemented real-time interactive rendering.
 - Used **Taichi / Python** for GPU acceleration, achieving about **100×** improvement over the original implementation.
-- Implemented real-time rendering and interactive visualization.
 
 ### **Epidemiological Modeling of COVID-19**
 *Mathematical modeling competition project | Mar 2022*
 
-- Built an **SIERR-T** model incorporating media and rumor dynamics.
-- Performed sentiment analysis and rumor identification on Weibo comments, and analyzed policy effects using [OxCGRT data](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker).
+- Built an **SIERR-T** model incorporating media and rumor dynamics, with sentiment and rumor analysis on Weibo comments.
+- Analyzed policy effects using [OxCGRT data](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker).
 
 ## 📚 Publications & Patents
 

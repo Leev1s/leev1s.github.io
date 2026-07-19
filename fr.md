@@ -10,7 +10,6 @@ _李俊星_ _Jasen_
 [العربية](/ar/) · [EN](/) · [Español](/es/) · [فارسی](/fa/) · **Français** · [हिन्दी](/hi/) · [日本語](/ja/) · [한국어](/ko/) · [Русский](/ru/) · [中文](/zh/)
 
 > Bienvenue sur ce site ! Cette page contient plus de détails à mon sujet.\
-> E-mail personnel : lev1s at foxmail dot com
 
 ## 🙋 Profil
 
@@ -96,30 +95,26 @@ Dans une équipe, je contribue souvent par la résolution de problèmes, la stru
 *Initiateur du projet | Oct. 2025 – Déc. 2025*<br>
 *Projet de cours CityU*
 
-- Collecté et nettoyé des données historiques de courses, de cotes et de types de paris afin de constituer un jeu de données structuré pour l'analyse.
-- Appliqué l'inférence statistique, les tests d'hypothèse et l'apprentissage statistique aux scénarios **place** et **place Q**.
-- Il s'agissait d'un petit projet de recherche réalisé dans le cadre d'un cours de CityU ; ses résultats ne doivent pas être interprétés comme une capacité stable à parier ni comme des rendements en conditions réelles.
+- Collecté et nettoyé des données historiques de courses, de cotes et de types de paris, puis appliqué l'inférence et l'apprentissage statistiques aux scénarios **place** et **place Q**.
+- Petit projet de recherche réalisé dans le cadre d'un cours de CityU ; les résultats ne doivent pas être interprétés comme une capacité stable à parier ni comme des rendements en conditions réelles.
 
 ### **Étude Expérimentale sur la Résistance au Cisaillement des Sols Non Saturés**
 *Membre clé | Subvention de la Fondation Nationale des Sciences Naturelles de Chine*<br>
 [📄 Article (Rock and Soil Mechanics)](https://doi.org/10.16285/j.rsm.2022.2005)
 
-- Implémenté des algorithmes de simulation et d'ajustement en **MATLAB**, avec une précision d'ajustement supérieure à **98 %**.
-- Réécrit les fonctions d'ajustement principales en **C**, prenant en charge plus de 200 000 points et améliorant l'efficacité de calcul d'environ **300 %**.
+- Implémenté l'ajustement en **MATLAB** avec une précision supérieure à **98 %**, puis réécrit les fonctions principales en **C** pour plus de 200 000 points et environ **300 %** d'efficacité supplémentaire.
 - Utilisé **Python / Origin** pour l'analyse et la visualisation, et contribué à deux résultats de brevets liés à des équipements.
 
 ### **Étude sur la Génération de Fractales Multi-règles**
 *Mémoire de fin d'études distingué*
 
-- Construit un modèle de génération de fractales multi-règles fondé sur des systèmes dynamiques complexes.
+- Construit un modèle de génération de fractales multi-règles fondé sur des systèmes dynamiques complexes, avec rendu temps réel et visualisation interactive.
 - Utilisé **Taichi / Python** pour l'accélération GPU, avec une amélioration d'environ **100×** par rapport à l'implémentation initiale.
-- Implémenté un rendu en temps réel et une visualisation interactive.
 
 ### **Modélisation Épidémiologique du COVID-19**
 *Projet de modélisation mathématique | Mars 2022*
 
-- Construit un modèle **SIERR-T** intégrant la dynamique des médias et des rumeurs.
-- Réalisé une analyse de sentiment et une identification des rumeurs dans des commentaires Weibo.
+- Construit un modèle **SIERR-T** intégrant la dynamique des médias et des rumeurs, puis réalisé une analyse de sentiment et des rumeurs dans des commentaires Weibo.
 - Analysé les effets des politiques à l'aide des [données OxCGRT](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker).
 
 ## 📚 Publications & Brevets
